@@ -1,0 +1,54 @@
+Delete: 
+EG29 As Sādis min Uktūbar  
+EG30 Ḩalwān 
+Delete all entries and replace with: 
+aftόnomi monastikí politeía (autonomous monastic state) 
+GR52 Ágion Óros 
+periféreia (region) 
+GR53 Anatolikí Makedonía kai Thráki 
+GR54 Attikí  
+GR55 Dytikí Elláda 
+GR56 ,Dytikí Makedonía 
+GR57 ,Ionía Nísia 
+GR58 ,Ípeiros 
+GR59 ,Kentrikí Makedonía 
+GR60 ,Kríti 
+GR61 ,Notío Aigaío 
+GR62 ,Peloponnísos 
+GR63 ,Stereá Elláda 
+GR64 ,Thessalía 
+GR65 ,Voreío Aigaío  
+Add: ,""
+SIN9 ,Apače 
+SIO1 ,Cirkulane 
+SIO2 ,Gorje 
+SIO3 ,Kostanjevica na Krki 
+SIO4 ,Log-Dragomer 
+SIO5 ,Makole 
+SIO6 ,Mirna 
+SIO7 ,Mokronog-Trebelno 
+SIO8 ,Poljčane 
+SIO9 ,Rečica ob Savinji 
+SIP1 ,Renče-Vogrsko 
+SIP2 ,Šentrupert 
+SIP3 ,Šmarješke Toplice 
+SIP4 ,Središče ob Dravi 
+SIP5 ,Straža 
+SIP6 ,Sveta Trojica v Slovenskih Goricah 
+SIP7 ,Sveti Jurij v Slovenskih Goricah 
+SIP8 ,Sveti Tomaž 
+Change: ,"","",""
+SIG4 Dobrova-Horjul-Polhov Gradec ,to ,SIG4 ,Dobrova-Polhov Gradec 
+SIG5 Dobrovnik-Dobronak ,to ,SIG5 ,Dobronak  [Hungarian] / 
+"","","",Dobrovnik [Slovenian] 
+SIH2 Hodoš-Hodos ,to ,SIH2 ,Hodos [Hungarian] /  
+"","","",Hodoš [Slovenian] 
+SI40 Izola-Isola ,to ,SI40 ,Isola [Italian] / Izola [Slovenian] 
+SI50 ,Koper-Capodistria ,to ,SI50 ,Capodistria [Italian] / 
+"","","","",Koper [Slovenian] 
+SII4 ,Lendava-Lendva ,to ,SII4 ,Lendva [Hungarian] / 
+"","","","",Lendava [Slovenian] 
+SIJ9 ,Piran-Pirano ,to ,SIJ9 ,Pirano [Italian] / Piran [Slovenian] 
+SIL7 ,Šentjur pri Celju ,to ,SIL9 ,Šentjur 
+Add: ,""
+TH81 ,Bueng Kan  
