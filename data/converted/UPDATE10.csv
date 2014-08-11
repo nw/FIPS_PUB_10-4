@@ -1,0 +1,133 @@
+Change: ,"","",""
+AJ33 Mingəcevir ,to ,AJ33 ,Mingəçevir 
+Change: ,"",""
+BE11  Brussels-Capital Region  ,to  ,BE11  Brussels-Capital Region 
+[conventional] / ,"",[conventional] / 
+Brussels Hoofdstedelijk [Dutch] / ,"",Brussels Hoofdstedelijk  
+Bruxelles-Capitale [French] ,"",Gewest [Dutch] /  
+"","",Bruxelles-Capitale [French] 
+Change: ,"",""
+province ,to ,département (department) 
+Change: ,"",""
+parish ,to ,municipality 
+BD06 Saint George ,to ,BD06 Saint George 
+Add: 
+distrikt (district) 
+BK03 Brcko District [conventional] / Brčko Distrikt [Serbocroatian] 
+Add: 
+union territory 
+BM18 Nay Pyi Taw 
+Change: ,"",""
+division ,to ,region 
+BM03 Ayeyarwady ,to ,BM03 Ayeyawady 
+BM16 Bago ,to ,BM16 Bago 
+BM15 Magway ,to ,BM15 Magway 
+BM08 Mandalay ,to ,BM08 Mandalay 
+BM10 Sagaing ,to  ,BM10 Sagaing 
+BM12 Tanintharyi ,to ,BM12 Taninthayi 
+BM17 Yangon ,to ,BM17 Yangon 
+Change: ,"",""
+CM11 Center [English] / Centre [French] ,to ,"CM11 Centre [English, French] "
+Change: ,"",""
+district  ,to ,eparchía (district) 
+CY01 Famagusta ,to ,CY01 Ammóchostos 
+CY02 Kyrenia ,to ,CY02 Kerýneia 
+CY03 Larnaca ,to ,CY03 Lárnaka 
+CY05 Limassol ,to ,CY05 Lemesós 
+CY04 Nicosia ,to ,CY04 Lefkosía 
+CY06 Paphos ,to ,CY06 Páfos 
+Change: ,"",""
+propinsi (province) ,to ,provinsi (province) 
+Change: ,"","",""
+IZ11 Arbīl ,to ,IZ11 ,Arbīl [Arabic] / 
+"","","",Hewlêr [Kurdish] / 
+IZ05 As Sulaymānīyah ,to ,IZ05 ,As Sulaymānīyah [Arabic] / 
+"","","",Slêmanî [Kurdish] 
+IZ08 Dahūk ,to ,IZ08 ,Dahūk [Arabic] / 
+"","","",Dihok [Kurdish] 
+Change: ,"","",""
+JA12 Hokkaido ,to ,JA12 ,Hokkaidō 
+Change: ,"","",""
+KV10 Kaçanik [Albanian] / ,to ,KV09 ,Kaçanik [Albanian] / 
+Kačanik [Serbian] ,"","",Kačanik [Serbian] 
+KV09 Kamenicë [Albanian] /  ,to ,KV10 ,Kamenicë [Albanian] / 
+Kamenica [Serbian] ,"","",Kamenica [Serbian] 
+Add: ,""
+LG34 ,Ādažu Novads 
+Add: ,""
+LI15 ,Bomi 
+LI16 ,Grand Kru 
+LI17 ,Margibi 
+LI18 ,River Cess 
+Add: 
+MK54 Kruševo 
+1.) Corrections to April 2010 GEC (Formerly FIPS 10-4) recompilation Table 2 
+Delete: 
+RP61 Surigao del Norte 
+RP64 Zamboanaga del Sur 
+Change: ,"",""
+charter city ,to ,charter city 
+RP63 Tarlac ,to ,RPO3 Tarlac 
+province ,to ,province 
+RPO3 Tarlac ,to ,RP63 Tarlac 
+RPP1 Zambales ,to ,RP64 Zambales 
+2.) Corrections to April 2010 GEC (Formerly FIPS 10-4) recompilation Appendix A 
+Delete: 
+RPN7 Taguig 
+Change: ,"",""
+RPN8 Tagum ,to ,RPN7 Tagum 
+RPN9 Talisay (Cebu) ,to ,RPN8 Talisay (Cebu) 
+RPO1 Talisay (Negros Occidental) ,to ,RPN9 Talisay (Negros Occidental) 
+RPO2  Tanauan ,to ,RPO1  Tanauan 
+RPO3  Tanjay ,to ,RPO2  Tanjay 
+RPO4  Tarlac ,to ,RPO3  Tarlac 
+RPO5  Tuguegarao ,to ,RPO4  Tuguegarao 
+RPO6  Urdaneta ,to ,RPO5  Urdaneta 
+RPO7  Valencia ,to ,RPO6  Valencia 
+RPO8  Valenzuela ,to ,RPO7  Valenzuela 
+RPO9  Victorias ,to ,RPO8  Victorias 
+RPP1  Vigan ,to ,RPO9 Vigan 
+RPP2  Zamboanaga del Sur ,to ,RPP1  Zamboanaga del Sur 
+RPP3  Zamboanga Sibugay ,to ,RPP2  Zamboanga Sibugay 
+Add: ,""
+TZ28 ,"Geita [English, Swahili] "
+TZ29 ,"Katavi [English, Swahili] "
+TZ30 ,"Njombe [English, Swahili] "
+TZ31 ,"Simiyu [English, Swahili] "
+Change: ,"","",""
+TZ26 Arusha ,to ,TZ26 ,"Arusha [English, Swahili] "
+TZ23 Dar es Salaam ,to ,TZ23 ,Dar es Salaam [English] / 
+"","","",Dar Es Salaam [Swahili] 
+TZ03 Dodoma ,to ,TZ03 ,"Dodoma [English, Swahili] "
+TZ04 ,Iringa ,to ,TZ04 ,"Iringa [English, Swahili] "
+TZ19 ,Kagera ,to ,TZ19 ,"Kagera [English, Swahili] "
+TZ05 ,Kigoma ,to ,TZ05 ,"Kigoma [English, Swahili] "
+TZ06 ,Kilimanjaro ,to ,TZ06 ,"Kilimanjaro [English, Swahili] "
+TZ07 ,Lindi ,to ,TZ07  ,"Lindi [English, Swahili] "
+TZ27 ,Manyara ,to ,TZ27 ,"Manyara [English, Swahili] "
+TZ08 ,Mara ,to ,TZ08 ,"Mara [English, Swahili] "
+TZ09 ,Mbeya  ,to ,TZ09 ,"Mbeya [English, Swahili] "
+TZ10 ,Morogoro ,to ,TZ10 ,"Morogoro [English, Swahili] "
+TZ11 ,Mtwara ,to ,TZ11 ,"Mtwara [English, Swahili] "
+TZ12 ,Mwanza ,to ,TZ12 ,"Mwanza [English, Swahili] "
+TZ13 ,Pemba North ,to ,TZ13 ,Pemba North [English] / 
+"","","","",Kaskazini Pemba [Swahili] 
+TZ20 ,Pemba South ,to ,TZ20 ,Pemba South [English] / 
+"","","","",Kusini Pemba [Swahili] 
+TZ02 ,Pwani ,to ,TZ02 ,Coast [English] / 
+"","","","",Pwani [Swahili] 
+TZ24 ,Rukwa ,to ,TZ24 ,"Rukwa [English, Swahili] "
+TZ14 ,Ruvuma ,to ,TZ14 ,"Ruvuma [English, Swahili] "
+TZ15 ,Shinyanga ,to ,TZ15 ,"Shinyanga [English, Swahili] "
+TZ16 ,Singida ,to ,TZ16 ,"Singida [English, Swahili] "
+TZ17 ,Tabora ,to ,TZ17 ,"Tabora [English, Swahili] "
+TZ18 ,Tanga ,to ,TZ18 ,"Tanga [English, Swahili] "
+TZ21 ,Zanzibar Central/South ,to ,TZ21 ,Zanzibar Central/South [English] / 
+"","","","",Kusini Unguja [Swahili] 
+TZ22 ,Zanzibar North ,to ,TZ22 ,Zanzibar North [English] / 
+"","","","",Kaskazini Unguja [Swahili] 
+TZ25 ,Zanzibar Urban/West ,to ,TZ25 ,Zanzibar Urban/West [English] /  
+"","","","",Mjini Magharibi [Swahili] 
+TH40 ,Krung Thep Mahanakhon ,to ,TH40 ,Krung Thep 
+Add: ,""
+ZA10 ,Muchinga 
