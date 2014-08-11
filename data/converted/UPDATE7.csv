@@ -1,0 +1,66 @@
+Change: ,"",""
+AO05 Cuanza Norte ,to ,AO05  Kwanza Norte 
+AO06 Cuanza Sul ,to ,AO06 Kwanza Sul 
+Change: ,"","",""
+IN21 Orissa ,to ,IN21  ,Odisha 
+Delete: 
+LA25 Xaisômboun 
+Change: ,"","",""
+LA14 Xiangkhoang ,to ,LA14,Xiangkhouang 
+Change: ,"",""
+MO53 Guelmim-Es Smara ,to ,MO53 Guelmim-Es Semara 
+Add: 
+provincia (province) 
+PE26 Lima 
+Change: ,"",""
+departamento (department) ,to ,región (region) 
+provincia constitucional ,"",""
+(constitutional province) ,to  ,región (region) 
+PE07 Callao ,to ,PE07 Callao 
+Change: ,"",""
+to (province) ,to ,do (province) 
+gwangyŏksi (metropolitan city) ,to ,gwangyeoksi (metropolitan city) 
+t’ŭkpyŏlsi (capital city) ,to ,teukbyeolsi (capital city) 
+KS01 Cheju-do ,to ,KS01Jeju 
+KS03 Chŏlla-bukto ,to ,KS03 Jeonbuk 
+KS16 Chŏlla-namdo ,to ,KS16 Jeonnam 
+KS05 Chungch’ŏng-bukto ,to ,KS05 Chungbuk 
+KS17 Chungch’ŏng-namdo ,to ,KS17 Chungnam 
+KS12 Inch’ŏn-gwangyŏksi ,to ,KS12 Incheon 
+KS06 Kangwŏn-do ,to ,KS06 Gangwon 
+KS18 Kwangju-gwangyŏksi ,to ,KS18 Gwangju 
+KS13 Kyŏnggi-do ,to ,KS13 Gyeonggi 
+KS14 Kyŏngsang-bukto ,to ,KS14 Gyeongbuk 
+KS20 Kyŏngsang-namdo ,to ,KS20 Gyeongnam 
+KS10 Pusan-gwangyŏksi ,to ,KS10 Busan 
+KS11 Sŏul-t’ŭkpyŏlsi ,to ,KS11 Seoul 
+KS15 Taegu-gwangyŏksi ,to ,KS15 Daegu 
+KS19 ,Taejŏn-gwangyŏksi ,to ,KS19 ,Daejeon 
+KS21 ,Ulsan-gwangyŏksi ,to  ,KS21 ,Ulsan 
+Delete: 
+TD02 Caroni 
+TD03 Mayaro 
+TD04 Nariva 
+TD06 Saint Andrew 
+TD07 Saint David 
+TD08 Saint George 
+TD09 Saint Patrick 
+TD12 Victoria 
+Add: 
+TD13 Chaguanas 
+TD14 Couva/Tabaquite/Talparo 
+TD15 Diego Martin 
+TD16 Mayaro/Rio Claro 
+TD17 Penal/Debe 
+TD18 Point Fortin 
+TD19 Princes Town 
+TD21  Sangre Grande 
+TD20 San Juan/Lavantille 
+TD22 Siparia 
+TD23 Tunapuna/Piarco 
+Change: ,"",""
+TD05 Port-of-Spain ,to ,TD05  Port of Spain 
+Change: ,"","",""
+TS38 Ariana  ,to ,TS38 ,L’Ariana 
+TS31 Kebili ,to ,TS31 ,Kébili 
+TS33 Sidi Bou Zid ,to ,TS33 ,Sidi Bouzid 
