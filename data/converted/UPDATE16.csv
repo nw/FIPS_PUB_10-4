@@ -1,0 +1,175 @@
+Delete: 
+division 
+FJ01 Central 
+FJ02 Eastern 
+FJ03 Northern 
+FJ05 Western 
+Add: 
+province 
+FJ06 Ba 
+FJ07 Bua 
+FJ08 Cakaudrove 
+FJ09 Kadavu 
+FJ10 Lau 
+FJ11 Lomaiviti 
+FJ12 Macuata 
+FJ13 Nadroga and Navosa 
+FJ14 Naitasiri 
+FJ15 Namosi 
+FJ16 Ra 
+FJ17 Rewa 
+FJ18 Serua 
+FJ19 Tailevu 
+Change: ,"",""
+mkhare (region) ,"",kalaki (city) 
+GG51 Tbilisi ,to ,GG51 Tbilisi 
+Change: ,"",""
+GM02 Bayern ,to ,GM02 Bavaria [conventional] / 
+"","",Bayern [German] 
+GM05 Hessen ,to ,GM05 Hesse [conventional] / 
+"","",Hessen [German] 
+GM12 Mecklenburg-Vorpommern ,to ,GM12 Mecklenburg-Western Pomerania 
+"","",[conventional] / 
+"","",Mecklenburg-Vorpommern  
+"","",[German] 
+GM06 Niedersachsen ,to ,GM06 Lower Saxony [conventional] / 
+"","",Niedersachsen [German] 
+GM07 Nordrhein-Westfalen ,to ,GM07 North Rhine-Westphalia 
+"","",[conventional] / 
+"","",Nordrhein-Westfalen [German] 
+GM08 Rheinland-Pfalz ,to ,GM08 Rhineland-Palatinate [conventional] / 
+"","",Rheinland-Pfalz [German] 
+GM13 Sachsen ,to ,GM13 Saxony [conventional] / Sachsen 
+"","",[German] 
+GM14 Sachsen-Anhalt ,to ,GM14 Saxony-Anhalt [conventional] / 
+"","",Sachsen-Anhalt [German] 
+GM15 Thüringen ,to ,GM15 Thuringia [conventional] / 
+"","",Thüringen [German] 
+Add: ,""
+state ,""
+IN40 ,Telangana 
+Delete: 
+city [English] / cathair [Irish] 
+EI37 Limerick [English] / Luimneach [Irish] 
+EI41 Waterford [English] / Port Láirge [Irish] 
+county [English] / contae [Irish] ,""
+EI16 Limerick [English] / Luimneach [Irish] ,""
+"",1
+EI38 North Tipperary [English] / Tiobraid Árann Thuaidh [Irish] ,""
+2,""
+EI40 South Tipperary [English] / Tiobraid Árann Theas [Irish] ,""
+EI27 Waterford [English] / Port Láirge [Irish] ,""
+Add: 
+city and county [English] / cathair agus contae [Irish] 
+EI42 Limerick [English] / Luimneach [Irish] 
+EI44 Waterford [English] / Port Láirge [Irish] 
+county [English] / contae [Irish] 
+EI43 Tipperary [English] / Tiobraid Árann [Irish] 
+Delete all entries and replace with: 
+miesto savivaldybė (city municipality) 
+LH67 Alytaus Miestas 
+LH80 Kauno Miestas 
+LH85 Klaipėdos Miestas 
+LH96 Palangos Miestas 
+LH97 Panevėžio Miestas 
+LHA9 Šiaulių Miestas 
+LHC5 Vilniaus Miestas 
+rajono savivaldybė (district municipality) 
+LH66 Akmenė 
+LH68 Alytus 
+LH69 Anykščiai 
+LH71 Biržai 
+LH74 Ignalina 
+LH75 Jonava 
+LH76 Joniškis 
+LH77 Jurbarkas 
+LH78 Kaišiadorys 
+LH81 Kaunas 
+LH83 Kėdainiai 
+LH84 Kelmė 
+LH86 Klaipėda 
+LH87 Kretinga 
+LH88 Kupiškis 
+LH89 Lazdijai 
+LH90 Marijampolė 
+LH91 Mažeikiai  
+LH92 Molėtai 
+LH95 Pakruojis 
+LH98 Panevėžys 
+LH99 Pasvalys 
+LHA1 Plungė 
+LHA2 Prienai 
+LHA3 Radviliškis 
+LHA4 Raseiniai 
+LHA6 Rokiškis 
+LHA7 Šakiai 
+LHA8 Šalčininkai 
+LHB1 Šiauliai 
+LHB2 Šilalė 
+LHB3 Šilutė 
+LHB4 Širvintos 
+LHB5 Skuodas 
+LHB6 Švenčionys 
+LHB7 Tauragė 
+LHB8 Telšiai 
+LHB9 Trakai 
+LHC1 Ukmergė 
+LHC2 Utena 
+LHC3 Varėna 
+LHC4 Vilkaviškis 
+LHC6 Vilnius 
+LHC8 Zarasai 
+savivaldybė (municipality) 
+LH70 Birštono 
+LH72 Druskininkai 
+LH73 Elektrénai 
+LH79 Kalvarijos 
+LH82 Kazlų Rūdos 
+LH93 Neringa 
+LH94 Pagégiai 
+LHA5 Rietavo 
+LHC7 Visaginas 
+Add: 
+opština (municipality) 
+MJ22 Gusinje 
+MJ23 Petnjica 
+Add: 
+provincia (province) 
+PM13 Panamá Oeste 
+Add: ,""
+city ,""
+BP14 ,Honiara 
+Change: ,"","",""
+BP08 Makira ,to ,BP08 ,Makira and Ulawa 
+Change: ,"","",""
+SP51 Andalucía ,to ,SP51 ,Andalusia [conventional] / 
+"","","",Andalucía [Spanish] 
+SP52 Aragón ,to ,SP52 ,Aragon [conventional] / 
+"","","",Aragón [Spanish] 
+SP53 Canarias ,to ,SP53 ,Canary Islands [conventional] / 
+"","","",Canarias [Spanish] 
+SP54 Castilla-La Mancha ,to ,SP54 ,Castile-La Mancha [conventional] / 
+"","","",Castilla-La Mancha [Spanish] 
+SP55 Castilla y León ,to ,SP55 ,Castile-Leon [conventional] / 
+"","","",Castilla y León [Spanish] 
+SP56 Catalonha [Aranese] / ,"","",""
+Catalunya [Catalan] / ,"","",""
+Cataluña [Spanish] ,to ,SP56 ,Catalonia [conventional] / 
+"","","",Catalonha [Aranese] / 
+"","","",Catalunya [Catalan] / 
+"","","",Cataluña [Spanish] 
+SP59 Euskadi [Basque] / ,"","",""
+País Vasco [Spanish] ,to ,SP59 ,Basque Country 
+"","","",[conventional] / 
+"","","",Euskadi [Basque] / 
+"","","",País Vasco [Spanish] 
+"SP07 Illes Balears [Catalan, Spanish] ",to ,SP07 ,Balearic Islands [conventional] / 
+"","","","Illes Balears [Catalan, Spanish] "
+SP32 Nafarroa [Basque] / ,"","",""
+Navarra [Spanish] ,to ,SP32 ,Navarre [conventional] / 
+"","","",Nafarroa [Basque] / 
+"","","",Navarra [Spanish] 
+"SP60 Valenciana, Comunidad [Spanish] / ","","",""
+"Valenciana, Comunitat [Valencian] ",to ,SP60 ,Valencia [conventional] / 
+"","","","Valenciana, Comunitat "
+"","","","[Spanish, Valencian] "
