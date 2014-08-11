@@ -1,0 +1,65 @@
+Delete: 
+CU11 La Habana 
+Add: ,""
+CU17 ,Artemisa 
+CU18 ,Mayabeque 
+Change: ,"","",""
+CU02 Ciudad de La Habana ,to ,CU02 ,La Habana 
+Delete: 
+FI21 Itä-Uusimaa [Finnish] / Östra Nyland [Swedish] 
+Change: ,"","",""
+LY64 Al Jafrah ,to ,LY64 ,Al Jufrah 
+LY65 Al Kafrah ,to ,LY65 ,Al Kufrah 
+LY66 Al Maraj ,to ,LY66 ,Al Marj 
+LY75 Sibhā ,to ,LY75 ,Sabhā 
+Delete: 
+MC01 Ilhas 
+MC02 Macau 
+Add: 
+MKF3 Aerodrom 
+MKF4 Butel 
+MKF5 Debarca 
+Add: 
+NZG4 Tasman 
+Add: ,""
+RS93 ,Zabaykal’skiy Kray 
+Delete: 
+TW11 Kaohsiung County [conventional] / Gaohsiong Xian [Chinese] 
+TW20 Taichung County [conventional] / Taizhong Xian [Chinese] 
+TW22 Tainan County [conventional] / Tainan Xian [Chinese] 
+Change: ,"",""
+TW23 Taipei County [conventional] / ,to ,TW23 New Taipei Municipality  
+Taibei Xian [Chinese] ,"",[conventional] / Xinbei Shi [Chinese] 
+Add: 
+UGE3 Agago 
+UGE4 Alebtong 
+UGE5 Amudat 
+UGE6 Buhweju 
+UGE7 Buikwe 
+UGE8 Bukomansimbi 
+UGE9 Bulambuli 
+UGF1 Butambala 
+UGF2 Buvuma 
+UGF3 Buyende 
+UGF4 Gomba 
+UGF5 Kalungu 
+UGF6 Kibuku 
+UGF7 Kiryandongo 
+UGF8 Kole 
+UGF9 Kween 
+UGG1 Kyankwanzi 
+UGG2 Kyegegwa 
+UGG3 Lamwo 
+UGG4 Luuka 
+UGG5 Lwengo 
+UGG6 Mitoma 
+UGG7 Namayingo 
+UGG8 Napak 
+UGG9 Ngora 
+UGH1 Ntoroko 
+UGH2 Nwoya 
+UGH3 Otuke 
+UGH4 Rubirizi 
+UGH5 Serere 
+UGH6 Sheema 
+UGH7 Zombo 
