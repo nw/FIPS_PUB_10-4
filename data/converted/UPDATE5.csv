@@ -1,0 +1,63 @@
+Change: ,"",""
+distrito (district) ,to ,ciudad autónoma (autonomous city) 
+AR07 Distrito Federal ,to ,AR07 Ciudad Autónoma de Buenos Aires 
+Delete: 
+atholhu (atoll) 
+MV30 Alifu 
+MV31 Baa 
+MV32 Dhaalu 
+MV33 Faafu 
+MV34 Gaafu Alifu 
+MV35 Gaafu Dhaalu 
+MV42 Gnaviyani 
+MV36 Haa Alifu 
+MV37 Haa Dhaalu 
+MV38 Kaafu 
+MV05 Laamu 
+MV39 Lhaviyani 
+MV41 Meemu 
+MV43 Noonu 
+MV44 Raa 
+MV01 Seenu 
+MV45 Shaviyani 
+MV46 Thaa 
+MV47 Vaavu 
+Add: 
+sarahahdhu (province) 
+MV48 Dhekunu 
+MV49 Mathi Dhekunu 
+MV50 Mathi Uthuru 
+MV51 Medhu 
+MV52 Medhu Dhekunu 
+MV53 Medhu Uthuru 
+MV54 Uthuru 
+Change: ,"",""
+MX30 Veracruz-Llave  ,to ,MX30 Veracruz 
+Delete: 
+SU35  A‘ālī an Nīl [Arabic] / Upper Nile [English] 
+SU37  Al Buḩayrāt [Arabic] / Lakes [English] 
+SU40  Al Waḩdah [Arabic] / Unity [English] 
+SU44  Baḩr al Jabal [Arabic] / Central Equatoria [English] 
+SU45  Gharb al Istiwā’īyya [Arabic] / Western Equatoria [English] 
+SU46  Gharb Baḩr al Ghazāl [Arabic] / Western Bahr el Ghazal [English] 
+SU51 Junqalī [Arabic] / Jonglei [English]*(see note) 
+SU57  Sharq al Istiwā’īyya [Arabic] / Eastern Equatoria [English] 
+SU54  Shimāl Baḩr al Ghazāl [Arabic] / Northern Bahr el Ghazal [English] 
+SU59  Wārāb [Arabic] / Warrap [English] 
+SU51 ,Junqalī ,to ,SU51 Junqolēy [Arabic] / 
+"","","",Jonglei [English] 
+Change: ,"","",""
+SU43 Shimālīyya [Arabic] /  ,to ,SU43 ,Ash Shimālīyya [Arabic] / 
+Northern [English] ,"","",Northern [English] 
+ADD
+OD ,SOUTH SUDAN
+OD01 ,Central Equatoria 
+OD02 ,Eastern Equatoria 
+OD03 ,Jonglei 
+OD04 ,Lakes 
+OD05 ,Northern Bahr el Ghazal 
+OD06 ,Unity 
+OD07 ,Upper Nile 
+OD08 ,Warrap 
+OD09 ,Western Bahr el Ghazal 
+OD10 ,Western Equatoria 
