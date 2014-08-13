@@ -1,0 +1,2429 @@
+
+
+UPDATE,1
+
+Change country name: ,"","",""
+AX Akrotiri Sovereign Base Area ,to ,AX ,Akrotiri 
+Add: ,""
+BG87 ,Rangpur 
+Add: ,""
+BT23 ,Gasa 
+BT24 ,Trashi Yangtse 
+Change: ,"","",""
+BT07 Chirang ,to ,BT07 ,Tsirang 
+BT08 Daga ,to ,BT08 ,Dagana 
+BT09 Geylegphug ,to ,BT09 ,Sarpang 
+BT10 Ha ,to ,BT10 ,Haa 
+BT11 Lhuntshi ,to ,BT11 ,Lhuentse 
+BT14 Pemagatsel ,to ,BT14 ,Pemagatshel 
+BT16 Samchi ,to  ,BT16 ,Samtse 
+BT17 Samdrup ,to ,BT17 ,Samdrup Jongkhar 
+BT18 Shemgang ,to ,BT18 ,Zhemgang 
+BT19 Tashigang ,to ,BT19 ,Trashigang 
+BT21 Tongsa ,to ,BT21 ,Trongsa 
+BT22 Wangdi Phodrang ,to ,BT22 ,Wangdue Phodrang 
+Delete: 
+CV10 São Nicolau 
+Add: 
+CV21 Porto Novo 
+CV22 Ribeira Brava 
+CV23 Ribeira Grande de Santiago 
+CV24 Santa Catarina do Fogo 
+CV25  São Lourenço dos Orgãos 
+CV26 São Salvador do Mundo 
+CV27 Tarrafal de São Nicolau 
+Delete: 
+CD03 Borkou-Ennedi-Tibesti 
+Add: ,""
+CD22 ,Barh el Gazel 
+CD23 ,Borkou 
+CD24 ,Ennedi 
+CD25 ,Sila 
+CD26 ,Tibesti 
+Change country name: ,"","",""
+DX  Dhekelia Sovereign Base Area ,to ,DX ,Dhekelia 
+Add: 
+EG28 Al Uqşur 
+EG29 As Sādis min Uktūbar 
+EG30 Ḩalwān 
+Delete all entries and replace with: 
+FI16 Ahvenanmaa [Finnish] / Åland [Swedish] 
+FI17 Etelä-Karjala [Finnish] / Södra Karelen [Swedish] 
+FI18 Etelä-Pohjanmaa [Finnish] / Södra Österbotten [Swedish] 
+FI19 Etelä-Savo [Finnish] / Södra Savolax [Swedish] 
+FI21 Itä-Uusimaa [Finnish] / Östra Nyland [Swedish] 
+FI22 Kainuu [Finnish] / Kajanaland [Swedish] 
+FI20 Kanta-Häme [Finnish] / Egentliga Tavastland [Swedish] 
+FI23 Keski-Pohjanmaa [Finnish] / Mellersta Österbotten [Swedish] 
+FI24 Keski-Suomi [Finnish] / Mellersta Finland [Swedish] 
+FI25 Kymenlaakso [Finnish] / Kymmenedalen [Swedish] 
+FI26 Lappi [Finnish] / Lappland [Swedish] 
+FI27 Päijät-Häme [Finnish] / Päijänne-Tavastland [Swedish] 
+FI28 Pirkanmaa [Finnish] / Birkaland [Swedish] 
+FI29 Pohjanmaa [Finnish] / Österbotten [Swedish] 
+FI30 Pohjois-Karjala [Finnish] / Norra Karelen [Swedish] 
+FI31 Pohjois-Pohjanmaa [Finnish] / Norra Österbotten [Swedish] 
+FI33 Pohjois-Savo [Finnish] / Norra Savolax [Swedish] 
+FI32 Satakunta [Finnish and Swedish] 
+FI35 Uusimaa [Finnish] / Nyland [Swedish] 
+FI34 Varsinais-Suomi [Finnish] / Egentliga Finland [Swedish] 
+Delete all entries and replace with: 
+GL04 Kujalleq 
+GL05 Qaasuitsup 
+GL06 ,Qeqqata 
+GL07 ,Sermersooq 
+Add: ,""
+IR44 ,Alborz 
+Change: ,"","",""
+IZ13 At Ta’mīm ,to ,IZ13 ,Kirkūk 
+Delete: 
+LY47 Ajdābiyā 
+LY03 Al ‛Azīzīyah 
+LY48 Al Fātiḩ 
+LY50 Al Khums 
+LY52 Awbārī 
+LY56 Ghadāmis 
+LY57 Gharyān 
+LY59 Sawfajīn 
+LY41 Tarhūnah 
+LY42 Tubruq 
+LY43 Tūkrah 
+LY62 Yafran 
+LY45 Zlīţān 
+Add: ,""
+LY79 ,Al Bunn 
+LY80 ,Al Jabal al Gharbī 
+LY81 ,Al Jafārah 
+LY66 ,Al Maraj 
+LY82 ,Al Marqab 
+LY83 ,Al Wāḩāt 
+LY71 ,Ghāt 
+LY74 ,Nālūt 
+LY84 ,Wādī al Ḩayāt 
+Change: ,"",""
+baladiyat ,to ,shabiyat 
+LY49 Al Jabal al Akhar ,to ,LY63 Al Jabal al Akhar 
+LY05 Al Jufrah ,to ,LY64 Al Jafrah 
+LY08 Al Kufrah ,to ,LY65 Al Kafrah 
+LY51 An Nuqā al Khams ,to ,LY67 An Nuqā al Khams 
+LY53 Az Zāwiyah ,to ,LY68 Az Zāwiyah 
+LY54 Banghāzī ,to ,LY69 Banghāzī 
+LY55 Darnah ,to ,LY70 Darnah 
+LY58 Mirātah ,to ,LY72 Mirātah 
+LY30 Murzuq ,to ,LY73 Murzuq 
+LY34 Sabhā ,to ,LY75 Sibhā 
+LY60 Surt ,to ,LY76 Surt 
+LY61 Ţarābulus ,to ,LY77 Ţarābulus 
+LY13 Ash Shāţi’ ,to ,LY78 Wādī ash Shāţi’ 
+Change: ,"","",""
+PK03 North-West Frontier ,to ,PK03 ,Khyber Pakhtunkhwa 
+Add: ,""
+PM11 ,Emberá-Wounaan 
+PM12 ,Ngöbe-Buglé 
+Change: ,"","",""
+PM09 San Blas ,to ,PM09 ,Kuna Yala 
+Delete: 
+RS02 Aginskiy Buryatskiy Avtonomnyy Okrug 
+RS14 Chitinskaya Oblast’ 
+Add: ,""
+RS93 ,Zabalkal’skiy Kray 
+Delete: 
+CE31 North Eastern 
+Add: ,""
+CE37 ,Eastern 
+CE38 ,Northern 
+Add: ,""
+TT01 ,Aileu 
+TT02 ,Ainaro 
+TT03 ,Baucau 
+TT04 ,Bobonaro 
+TT05 ,Cova Lima 
+TT06 ,Díli 
+TT07 ,Ermera 
+TT08 ,Lautém 
+TT09 ,Liquiçá 
+TT10 ,Manatuto 
+TT11 ,Oecussi-Ambeno 
+TT12 ,Viqueque 
+Delete: 
+UKA5 Bedfordshire 
+UKC5 Cheshire 
+Add: 
+UKZ5 Bedford 
+UKZ6 Central Bedfordshire 
+UKZ7 Cheshire East 
+UKZ8 Cheshire West and Chester 
+UKZ9 Isles of Scilly 
+Change: ,"",""
+district ,to ,borough 
+UKQ2 Wokingham ,to ,UKQ2 Wokingham 
+unitary authority ,to ,county ,""
+UKF7 Herefordshire ,to ,UKF7 ,Herefordshire  
+Change: ,"",""
+federal district ,to ,capital district 
+VE25 Distrito Federal ,to ,VE25 Distrito Capital 
+
+
+UPDATE,2
+
+"Change: ",,,
+"CB25 Bântéay Méan Cheăy ","to ","CB25 ","Bântéay Méan Choăy "
+"CB27 Ŏtdâr Méan Cheăy ","to ","CB27 ","Ŏtdâr Méan Choăy "
+"CB23 Rôtânăh Kiri ","to ","CB23 ","Rôtânôkiri "
+"Delete: "
+"LG01 Aizkraukles Rajons  "
+"LG02 Alūksnes Rajons  "
+"LG03 Balvu Rajons  "
+"LG04 Bauskas Rajons  "
+"LG05 Cēsu Rajons  "
+"LG07 Daugavpils Rajons  "
+"LG08 Dobeles Rajons  "
+"LG09 Gulbenes Rajons  "
+"LG10 Jēkabpils Rajons  "
+"LG12 Jelgavas Rajons  "
+"LG14 Krāslavas Rajons  "
+"LG15 Kuldīgas Rajons  "
+"LG17 Liepājas Rajons  "
+"LG18 Limbažu Rajons  "
+"LG19 Ludzas Rajons  "
+"LG20 Madonas Rajons  "
+"LG21 Ogres Rajons  "
+"LG22 Preiļu Rajons  "
+"LG24 Rēzeknes Rajons  "
+"LG26 Rīgas Rajons  "
+"LG27 Saldus Rajons  "
+"LG28 Talsu Rajons  "
+"LG29 Tukuma Rajons  "
+"LG30 Valkas Rajons  "
+"LG31 Valmieras Rajons  "
+"LG33 Ventspils Rajons "
+"Add: ",
+"LG34 ","Adažu Novads "
+"LG35 ","Aglonas Novads "
+"LG36 ","Aizkraukles Novads "
+"LG37 ","Aizputes Novads "
+"LG38 ","Aknīstes Novads "
+"LG39 ","Alojas Novads "
+"LG40 ","Alsungas Novads "
+"LG41 ","Alūksnes Novads "
+"LG42 ","Amatas Novads "
+"LG43 ","Apes Novads "
+"LG44 ","Auces Novads "
+"LG45 ","Babītes Novads "
+"LG46 ","Baldones Novads "
+"LG47 ","Baltinavas Novads "
+"LG48 ","Balvu Novads "
+"LG49 ","Bauskas Novads "
+"LG50 ","Beverīnas Novads "
+"LG51 ","Brocēnu Novads "
+"LG52 ","Burtnieku Novads "
+"LG53 ","Carnikavas Novads "
+"LG54 ","Cēsu Novads "
+"LG55 ","Cesvaines Novads "
+"LG56 ","Ciblas Novads "
+"LG57 ","Dagdas Novads "
+"LG58 ","Daugavpils Novads "
+"LG59 ","Dobeles Novads "
+"LG60 ","Dundagas Novads "
+"LG61 ","Durbes Novads "
+"LG62 ","Engures Novads "
+"LG63 ","Ērgļu Novads "
+"LG64 ","Garkalnes Novads "
+"LG65 ","Grobiņas Novads "
+"LG66 ","Gulbenes Novads "
+"LG67 ","Iecavas Novads "
+"LG68 ","Ikšķiles Novads "
+"LG69 ","Ilūkstes Novads "
+"LG70 ","Inčukalna Novads "
+"LG71 ","Jaunjelgavas Novads "
+"LG72 ","Jaunpiebalgas Novads "
+"LG73 ","Jaunpils Novads "
+"LG74 ","Jēkabpils "
+"LG75 ","Jēkabpils Novads "
+"LG76 ","Jelgavas Novads "
+"LG77 ","Kandavas Novads "
+"LG78 ","Kārsavas Novads "
+"LG79 ","Ķeguma Novads "
+"LG80 ","Ķekavas Novads "
+"LG81 ","Kocēnu Novads "
+"LG82 ","Kokneses Novads "
+"LG83 ","Krāslavas Novads "
+"LG84 ","Krimuldas Novads "
+"LG85 ","Krustpils Novads "
+"LG86 ","Kuldīgas Novads "
+"LG87 Lielvārdes Novads "
+"LG88 Līgatnes Novads "
+"LG89 Limbažu Novads "
+"LG90 Līvānu Novads "
+"LG91 Lubānas Novads "
+"LG92 Ludzas Novads "
+"LG93 Madonas Novads "
+"LG94 Mālpils Novads "
+"LG95 Mārupes Novads "
+"LG96 Mazsalacas Novads "
+"LG97 Naukšēnu Novads "
+"LG98 Neretas Novads "
+"LG99 Nīcas Novads "
+"LGA1 Ogres Novads "
+"LGA2 Olaines Novads "
+"LGA3 Ozolnieku Novads "
+"LGA4 Pārgaujas Novads "
+"LGA5 Pāvilostas Novads "
+"LGA6 Pļaviņu Novads "
+"LGA7 Preiļu Novads "
+"LGA8 Priekules Novads "
+"LGA9 Priekuļu Novads "
+"LGB1 Raunas Novads "
+"LGB2 Rēzeknes Novads "
+"LGB3 Riebiņu Novads "
+"LGB4 Rojas Novads "
+"LGB5 Ropažu Novads "
+"LGB6 Rucavas Novads "
+"LGB7 Rugāju Novads "
+"LGB8 Rūjienas Novads "
+"LGB9 Rundāles Novads "
+"LGC1 Salacgrīvas Novads "
+"LGC2 Salas Novads "
+"LGC3 Salaspils Novads "
+"LGC4 Saldus Novads "
+"LGC5 Saulkrastu Novads "
+"LGC6 Sējas Novads "
+"LGC7 Siguldas Novads "
+"LGC8 Skrīveru Novads "
+"LGC9 Skrundas Novads "
+"LGD1 Smiltenes Novads "
+"LGD2 Stopiņu Novads "
+"LGD3 Strenču Novads "
+"LGD4 Talsu Novads "
+"LGD5 Tērvetes Novads "
+"LGD6 Tukuma Novads "
+"LGD7 Vaiņodes Novads "
+"LGD8 Valkas Novads "
+"LGD9 Valmiera "
+"LGE1 Varakļānu Novads "
+"LGE2 Vārkavas Novads "
+"LGE3 Vecpiebalgas Novads "
+"LGE4 Vecumnieku Novads "
+"LGE5 Ventspils Novads "
+"LGE6 Viesītes Novads "
+"LGE7 Viļakas Novads "
+"LGE8 Viļānu Novads "
+"LGE9 Zilupes Novads "
+"Add: ",
+"MI31 ","Neno "
+"Delete: "
+"RS82 Ust’-Ordynskiy Buryatskiy Avtonomnyy Okrug "
+"Delete: "
+"TW01 Fu-chien "
+"TW04 T’ai-wan "
+"Add: "
+"TW05 Changhua County [conventional] / Zhanghua Xian [Chinese] "
+"TW06 Chiayi Municipality [conventional] / Jiayi Shi [Chinese] "
+"TW07 Chiayi County [conventional] / Jiayi Xian [Chinese] "
+"TW08 Hsinchu Municipality [conventional] / Xinzhu Shi [Chinese] "
+"TW09 Hsinchu County [conventional] / Xinzhu Xian [Chinese] "
+"TW10 Hualien County [conventional] / Hualien Xian [Chinese] "
+"TW11 Kaohsiung County [conventional] / Gaohsiong Xian [Chinese] "
+"TW12 Keelong Municipality [conventional] / Jilong Shi [Chinese] "
+"TW13 Kinmen County [conventional] / Jinmen Xian [Chinese] "
+"TW14 Lienchiang County [conventional] / Lianjiang Xian [Chinese] "
+"TW15 Miaoli County [conventional] / Miaoli Xian [Chinese] "
+"TW16 Nantou County [conventional] / Nantou Xian [Chinese] "
+"TW17 Penghu County [conventional] / Penghu Xian [Chinese] "
+"TW18 Pingtung County [conventional] / Pingdong Xian [Chinese] "
+"TW19 Taichung Municipality [conventional] / Taizhong Shi [Chinese] "
+"TW20 Taichung County [conventional] / Taizhong Xian [Chinese] "
+"TW21 Tainan Municipality [conventional] / Tainan Shi [Chinese] "
+"TW22 Tainan County [conventional] / Tainan Xian [Chinese] "
+"TW23 Taipei County [conventional] / Taibei Xian [Chinese] "
+"TW24 Taitung County [conventional] / Taidong Xian [Chinese] "
+"TW25 Taoyuan County [conventional] / Taiyuan Xian [Chinese] "
+"TW26 Yilan County [conventional] / Yilan Xian [Chinese] "
+"TW27 Yunlin County [conventional] / Yunlin Xian [Chinese] "
+"Change: ",,
+"TW02 Kao-hsiung ","to ","TW02 Kaohsiung Municipality "
+,,"[conventional] / Gaoxiong Shi [Chinese] "
+"TW03 T’ai-pei ","to ","TW03 Taipei Municipality [conventional] / "
+,,"Taibei Shi [Chinese] "
+"DELETE"
+"NT  ","NETHERLANDS ANTILLES (FNC 365) "
+"ADD"
+"UC ","CURAÇAO (FNC 365) "
+"NN ","SINT MAARTEN (FNC 365) "
+
+UPDATE,3
+
+Delete: 
+BF26 Fresh Creek 
+BF27 Governor’s Harbour 
+BF28 Green Turtle Cay 
+BF29 High Rock 
+BF30 Kemps Bay 
+BF31 Marsh Harbour 
+BF23 New Providence 
+BF33 Rock Sound 
+BF34 Sandy Point 
+Add: ,""
+BF36 ,Black Point 
+BF37 ,Central Abaco 
+BF38 ,Central Andros 
+BF39 ,Central Eleuthera 
+BF40 ,Crooked Island and Long Cay 
+BF41 ,East Grand Bahama 
+BF42 ,Grand Cay 
+BF43 ,Hope Town 
+BF44 ,Mangrove Cay 
+BF45 ,Moore’s Island 
+BF46 ,North Abaco 
+BF47 ,North Andros 
+BF48 ,North Eleuthera 
+BF49 ,Rum Cay 
+BF50 ,South Abaco 
+BF51 ,South Andros 
+BF52 ,South Eleuthera 
+BF53 ,Spanish Wells 
+BF54 ,West Grand Bahama 
+Change: ,"","",""
+BF24 Acklins and Crooked Islands ,to ,BF24 ,Acklins 
+BF25 Freeport ,to ,BF25 ,City of Freeport 
+BF32 Nichollstown and Berry Islands ,to ,BF32 ,Berry Islands 
+BF35 San Salvador and Rum Cay ,to ,BF35 ,San Salvador 
+Change: ,"","",""
+IR41 Khorāsān-e Janūbī ,to ,IR41 ,Khorāsān-e Jonūbī 
+IR43 Khorāsān-e Shemālī ,to ,IR43 ,Khorāsān-e Shomālī 
+Change: ,"",""
+MR01 Hodh Ech Chargui ,to ,MR01 Hodh ech Chargui 
+MR02 Hodh El Gharbi ,to ,MR02 Hodh el Gharbi 
+Add: 
+MR13 Nouakchott 
+Change: ,"",""
+minţaqat (region) ,to ,muḩāfazat (governorate) 
+MU06 Masqaţ ,to ,MU06 Masqaţ 
+Change: ,"",""
+departamento (department) ,to ,distrito capital (capital district) 
+PA22 Asunción ,to ,PA22 Asunción  
+Delete: 
+QA02 Al Ghuwayrīyah 
+QA03 Al Jumaylīyah 
+QA11 Jarayān al Bāţinah 
+QA12 Umm Sa‘īd 
+Change: ,"","",""
+QA04 Al Khawr ,to ,QA04 ,Al Khawr wa adh Dhakhīrah 
+QA08 Madīnat ash Shamāl ,to ,QA08 ,Ash Shamāl 
+Add: ,""
+QA13 ,Az Za‘āyin 
+Change: ,"",""
+"SU59  Warab [Arabic, English] ",to ,SU59  Wārāb [Arabic] / Warrap [English] 
+Add: ,""
+TT11 ,Manufahi 
+TT12 ,Oecussi-Ambeno (not TT11) 
+TT13 ,Viqueque (not TT12) 
+Change: ,"",""
+county ,to ,unitary authority 
+UKC6 Cornwall ,to ,UKC6 Cornwall 
+UKD8 Durham ,to ,UKD8 Durham 
+UKJ6 Northumberland ,to ,UKJ6 Northumberland 
+UKL6 Shropshire ,to ,UKL6 Shropshire 
+UKP8 Wiltshire ,to ,UKP8 Wiltshire 
+
+
+UPDATE,4
+
+Delete: 
+CU11 La Habana 
+Add: ,""
+CU17 ,Artemisa 
+CU18 ,Mayabeque 
+Change: ,"","",""
+CU02 Ciudad de La Habana ,to ,CU02 ,La Habana 
+Delete: 
+FI21 Itä-Uusimaa [Finnish] / Östra Nyland [Swedish] 
+Change: ,"","",""
+LY64 Al Jafrah ,to ,LY64 ,Al Jufrah 
+LY65 Al Kafrah ,to ,LY65 ,Al Kufrah 
+LY66 Al Maraj ,to ,LY66 ,Al Marj 
+LY75 Sibhā ,to ,LY75 ,Sabhā 
+Delete: 
+MC01 Ilhas 
+MC02 Macau 
+Add: 
+MKF3 Aerodrom 
+MKF4 Butel 
+MKF5 Debarca 
+Add: 
+NZG4 Tasman 
+Add: ,""
+RS93 ,Zabaykal’skiy Kray 
+Delete: 
+TW11 Kaohsiung County [conventional] / Gaohsiong Xian [Chinese] 
+TW20 Taichung County [conventional] / Taizhong Xian [Chinese] 
+TW22 Tainan County [conventional] / Tainan Xian [Chinese] 
+Change: ,"",""
+TW23 Taipei County [conventional] / ,to ,TW23 New Taipei Municipality  
+Taibei Xian [Chinese] ,"",[conventional] / Xinbei Shi [Chinese] 
+Add: 
+UGE3 Agago 
+UGE4 Alebtong 
+UGE5 Amudat 
+UGE6 Buhweju 
+UGE7 Buikwe 
+UGE8 Bukomansimbi 
+UGE9 Bulambuli 
+UGF1 Butambala 
+UGF2 Buvuma 
+UGF3 Buyende 
+UGF4 Gomba 
+UGF5 Kalungu 
+UGF6 Kibuku 
+UGF7 Kiryandongo 
+UGF8 Kole 
+UGF9 Kween 
+UGG1 Kyankwanzi 
+UGG2 Kyegegwa 
+UGG3 Lamwo 
+UGG4 Luuka 
+UGG5 Lwengo 
+UGG6 Mitoma 
+UGG7 Namayingo 
+UGG8 Napak 
+UGG9 Ngora 
+UGH1 Ntoroko 
+UGH2 Nwoya 
+UGH3 Otuke 
+UGH4 Rubirizi 
+UGH5 Serere 
+UGH6 Sheema 
+UGH7 Zombo 
+
+
+UPDATE,5
+
+Change: ,"",""
+distrito (district) ,to ,ciudad autónoma (autonomous city) 
+AR07 Distrito Federal ,to ,AR07 Ciudad Autónoma de Buenos Aires 
+Delete: 
+atholhu (atoll) 
+MV30 Alifu 
+MV31 Baa 
+MV32 Dhaalu 
+MV33 Faafu 
+MV34 Gaafu Alifu 
+MV35 Gaafu Dhaalu 
+MV42 Gnaviyani 
+MV36 Haa Alifu 
+MV37 Haa Dhaalu 
+MV38 Kaafu 
+MV05 Laamu 
+MV39 Lhaviyani 
+MV41 Meemu 
+MV43 Noonu 
+MV44 Raa 
+MV01 Seenu 
+MV45 Shaviyani 
+MV46 Thaa 
+MV47 Vaavu 
+Add: 
+sarahahdhu (province) 
+MV48 Dhekunu 
+MV49 Mathi Dhekunu 
+MV50 Mathi Uthuru 
+MV51 Medhu 
+MV52 Medhu Dhekunu 
+MV53 Medhu Uthuru 
+MV54 Uthuru 
+Change: ,"",""
+MX30 Veracruz-Llave  ,to ,MX30 Veracruz 
+Delete: 
+SU35  A‘ālī an Nīl [Arabic] / Upper Nile [English] 
+SU37  Al Buḩayrāt [Arabic] / Lakes [English] 
+SU40  Al Waḩdah [Arabic] / Unity [English] 
+SU44  Baḩr al Jabal [Arabic] / Central Equatoria [English] 
+SU45  Gharb al Istiwā’īyya [Arabic] / Western Equatoria [English] 
+SU46  Gharb Baḩr al Ghazāl [Arabic] / Western Bahr el Ghazal [English] 
+SU51 Junqalī [Arabic] / Jonglei [English]*(see note) 
+SU57  Sharq al Istiwā’īyya [Arabic] / Eastern Equatoria [English] 
+SU54  Shimāl Baḩr al Ghazāl [Arabic] / Northern Bahr el Ghazal [English] 
+SU59  Wārāb [Arabic] / Warrap [English] 
+SU51 ,Junqalī ,to ,SU51 Junqolēy [Arabic] / 
+"","","",Jonglei [English] 
+Change: ,"","",""
+SU43 Shimālīyya [Arabic] /  ,to ,SU43 ,Ash Shimālīyya [Arabic] / 
+Northern [English] ,"","",Northern [English] 
+ADD
+OD ,SOUTH SUDAN
+OD01 ,Central Equatoria 
+OD02 ,Eastern Equatoria 
+OD03 ,Jonglei 
+OD04 ,Lakes 
+OD05 ,Northern Bahr el Ghazal 
+OD06 ,Unity 
+OD07 ,Upper Nile 
+OD08 ,Warrap 
+OD09 ,Western Bahr el Ghazal 
+OD10 ,Western Equatoria 
+
+
+UPDATE,6
+
+Delete: 
+EG29 As Sādis min Uktūbar  
+EG30 Ḩalwān 
+Delete all entries and replace with: 
+aftόnomi monastikí politeía (autonomous monastic state) 
+GR52 Ágion Óros 
+periféreia (region) 
+GR53 Anatolikí Makedonía kai Thráki 
+GR54 Attikí  
+GR55 Dytikí Elláda 
+GR56 ,Dytikí Makedonía 
+GR57 ,Ionía Nísia 
+GR58 ,Ípeiros 
+GR59 ,Kentrikí Makedonía 
+GR60 ,Kríti 
+GR61 ,Notío Aigaío 
+GR62 ,Peloponnísos 
+GR63 ,Stereá Elláda 
+GR64 ,Thessalía 
+GR65 ,Voreío Aigaío  
+Add: ,""
+SIN9 ,Apače 
+SIO1 ,Cirkulane 
+SIO2 ,Gorje 
+SIO3 ,Kostanjevica na Krki 
+SIO4 ,Log-Dragomer 
+SIO5 ,Makole 
+SIO6 ,Mirna 
+SIO7 ,Mokronog-Trebelno 
+SIO8 ,Poljčane 
+SIO9 ,Rečica ob Savinji 
+SIP1 ,Renče-Vogrsko 
+SIP2 ,Šentrupert 
+SIP3 ,Šmarješke Toplice 
+SIP4 ,Središče ob Dravi 
+SIP5 ,Straža 
+SIP6 ,Sveta Trojica v Slovenskih Goricah 
+SIP7 ,Sveti Jurij v Slovenskih Goricah 
+SIP8 ,Sveti Tomaž 
+Change: ,"","",""
+SIG4 Dobrova-Horjul-Polhov Gradec ,to ,SIG4 ,Dobrova-Polhov Gradec 
+SIG5 Dobrovnik-Dobronak ,to ,SIG5 ,Dobronak  [Hungarian] / 
+"","","",Dobrovnik [Slovenian] 
+SIH2 Hodoš-Hodos ,to ,SIH2 ,Hodos [Hungarian] /  
+"","","",Hodoš [Slovenian] 
+SI40 Izola-Isola ,to ,SI40 ,Isola [Italian] / Izola [Slovenian] 
+SI50 ,Koper-Capodistria ,to ,SI50 ,Capodistria [Italian] / 
+"","","","",Koper [Slovenian] 
+SII4 ,Lendava-Lendva ,to ,SII4 ,Lendva [Hungarian] / 
+"","","","",Lendava [Slovenian] 
+SIJ9 ,Piran-Pirano ,to ,SIJ9 ,Pirano [Italian] / Piran [Slovenian] 
+SIL7 ,Šentjur pri Celju ,to ,SIL9 ,Šentjur 
+Add: ,""
+TH81 ,Bueng Kan  
+
+
+UPDATE,7
+
+Change: ,"",""
+AO05 Cuanza Norte ,to ,AO05  Kwanza Norte 
+AO06 Cuanza Sul ,to ,AO06 Kwanza Sul 
+Change: ,"","",""
+IN21 Orissa ,to ,IN21  ,Odisha 
+Delete: 
+LA25 Xaisômboun 
+Change: ,"","",""
+LA14 Xiangkhoang ,to ,LA14,Xiangkhouang 
+Change: ,"",""
+MO53 Guelmim-Es Smara ,to ,MO53 Guelmim-Es Semara 
+Add: 
+provincia (province) 
+PE26 Lima 
+Change: ,"",""
+departamento (department) ,to ,región (region) 
+provincia constitucional ,"",""
+(constitutional province) ,to  ,región (region) 
+PE07 Callao ,to ,PE07 Callao 
+Change: ,"",""
+to (province) ,to ,do (province) 
+gwangyŏksi (metropolitan city) ,to ,gwangyeoksi (metropolitan city) 
+t’ŭkpyŏlsi (capital city) ,to ,teukbyeolsi (capital city) 
+KS01 Cheju-do ,to ,KS01Jeju 
+KS03 Chŏlla-bukto ,to ,KS03 Jeonbuk 
+KS16 Chŏlla-namdo ,to ,KS16 Jeonnam 
+KS05 Chungch’ŏng-bukto ,to ,KS05 Chungbuk 
+KS17 Chungch’ŏng-namdo ,to ,KS17 Chungnam 
+KS12 Inch’ŏn-gwangyŏksi ,to ,KS12 Incheon 
+KS06 Kangwŏn-do ,to ,KS06 Gangwon 
+KS18 Kwangju-gwangyŏksi ,to ,KS18 Gwangju 
+KS13 Kyŏnggi-do ,to ,KS13 Gyeonggi 
+KS14 Kyŏngsang-bukto ,to ,KS14 Gyeongbuk 
+KS20 Kyŏngsang-namdo ,to ,KS20 Gyeongnam 
+KS10 Pusan-gwangyŏksi ,to ,KS10 Busan 
+KS11 Sŏul-t’ŭkpyŏlsi ,to ,KS11 Seoul 
+KS15 Taegu-gwangyŏksi ,to ,KS15 Daegu 
+KS19 ,Taejŏn-gwangyŏksi ,to ,KS19 ,Daejeon 
+KS21 ,Ulsan-gwangyŏksi ,to  ,KS21 ,Ulsan 
+Delete: 
+TD02 Caroni 
+TD03 Mayaro 
+TD04 Nariva 
+TD06 Saint Andrew 
+TD07 Saint David 
+TD08 Saint George 
+TD09 Saint Patrick 
+TD12 Victoria 
+Add: 
+TD13 Chaguanas 
+TD14 Couva/Tabaquite/Talparo 
+TD15 Diego Martin 
+TD16 Mayaro/Rio Claro 
+TD17 Penal/Debe 
+TD18 Point Fortin 
+TD19 Princes Town 
+TD21  Sangre Grande 
+TD20 San Juan/Lavantille 
+TD22 Siparia 
+TD23 Tunapuna/Piarco 
+Change: ,"",""
+TD05 Port-of-Spain ,to ,TD05  Port of Spain 
+Change: ,"","",""
+TS38 Ariana  ,to ,TS38 ,L’Ariana 
+TS31 Kebili ,to ,TS31 ,Kébili 
+TS33 Sidi Bou Zid ,to ,TS33 ,Sidi Bouzid 
+
+
+UPDATE,8
+
+Change: ,"",""
+AO04 Cuando Cubango ,to ,AO04  Kuando Kubango 
+Delete all entries and replace with: 
+région (region) 
+UV79 Boucle du Muhoun 
+UV80 Cascades 
+UV81 Centre 
+UV82 Centre-Est 
+UV83 Centre-Nord 
+UV84 Centre-Ouest 
+UV85 ,Centre-Sud 
+UV86 ,Est 
+UV87 ,Hauts-Bassins 
+UV88 ,Nord 
+UV89 ,Plateau-Central 
+UV90 ,Sahel 
+UV91 ,Sud-Ouest 
+Add: 
+KV31 Graçanicë [Albanian] / Gračanica [Serbian] 
+KV32 Hani i Elezit [Albanian] / Ðeneral Janković [Serbian] 
+"KV33 Junik [Albanian, Serbian] "
+KV34 Kllokot [Albanian] / Klokot [Serbian] 
+KV35 Mamushë [Albanian] / Mamuša [Serbian] / Mamuşa [Turkish] 
+KV36  Partesh [Albanian] / Parteš [Serbian] 
+KV37 Ranillug [Albanian] / Ranilug [Serbian] 
+Change: ,"",""
+"KV21 Prizren [Albanian, Serbian] ",to ,"Prizren  [Albanian, Serbian, Turkish] "
+KV25  Skenderaj [Albanian] / ,to ,Skënderaj [Albanian] / Srbica [Serbian] 
+Srbica [Serbian] ,"",""
+Add: 
+novads (municipality) 
+LGF1 Mērsraga Novads 
+Add: 
+il-lokalità (locality) 
+MT01 Attard 
+MT02 Balzan 
+MT03 Birgu 
+MT04 Birkirkara 
+MT05 Birżebbuġa 
+MT06 Bormla 
+MT07 Dingli 
+MT08 Fgura 
+MT09 Floriana 
+MT10 ,Fontana 
+MT11 ,Għajnsielem 
+MT12 ,Għarb 
+MT13 ,Għargħur 
+MT14 ,Għasri 
+MT15 ,Għaxaq 
+MT16 ,Gudja 
+MT17 ,Gżira 
+MT18 ,Ħamrun 
+MT19 ,Iklin 
+MT20 ,Imdina 
+MT21 ,Imġarr 
+MT22 ,Imqabba 
+MT23 ,Imsida 
+MT24 ,Imtarfa 
+MT25 ,Isla 
+MT26 ,Kalkara 
+MT27 ,Kerċem 
+MT28 ,Kirkop 
+MT29 ,Lija 
+MT30 ,Luqa 
+MT31 ,Marsa 
+MT32 ,Marsaskala 
+MT33 ,Marsaxlokk 
+MT34 ,Mellieħa 
+MT35 ,Mosta 
+MT36 ,Munxar 
+MT37 ,Nadur 
+MT38 ,Naxxar 
+MT39 ,Paola 
+MT40 ,Pembroke 
+MT41 ,Pietà 
+MT42 ,Qala 
+MT43 ,Qormi 
+MT44 ,Qrendi 
+MT45 ,Rabat 
+MT46 ,Rabat (Ghawdex) 
+MT47 ,Safi 
+MT48 ,Saint John [English] / San Ġwann [Maltese] 
+MT49 ,Saint Julian [English] / San Ġiljan [Maltese] 
+MT50 ,Saint Lawrence [English] / San Lawrenz [Maltese] 
+MT51 ,Saint Lucia [English] / Santa Luċija [Maltese] 
+MT52 ,Saint Paul’s Bay [English] / San Pawl il-Baħar [Maltese] 
+MT53 ,Saint Venera [English] / Santa Venera [Maltese] 
+MT54 ,Sannat 
+MT55 ,Siġġiewi 
+MT56 ,Sliema 
+MT57 ,Swieqi 
+MT58 ,Tarxien 
+MT59 ,Ta’ Xbiex 
+MT60 ,Valletta 
+MT61 ,Xagħra 
+MT62 ,Xewkija 
+MT63 ,Xgħajra 
+MT64 ,Żabbar 
+MT65 ,Żebbuġ 
+MT66 ,Żebbuġ (Ghawdex) 
+MT67 ,Żejtun 
+MT68 ,Żurrieq 
+Delete: 
+RPH4 Alaminos 
+RPA3 Bago 
+RPA5 Bais 
+RPH7 Balanga 
+RPA6 Basilan* 
+RPA7 Batangas 
+RPH8 Bayawan 
+RPI1 Bislig 
+RPA9 Cabanatuan 
+RPB1 Cadiz 
+RPI2 Calamba 
+RPI3 Calapan 
+RPB3 Calbayog 
+RPI4 Candon 
+RPB5 Canlaon 
+RPI5 Cauayan 
+RPB6 Cavite 
+RPC1 Danao 
+RPC2 Dapitan 
+RPI8 Digos 
+RPC4 Dipolog 
+RPC5 Dumaguete 
+RPJ1 Escalante 
+RPJ2 Gapan 
+RPC7 Gingoog 
+RPJ4 Himamaylan 
+RPD1 Iriga 
+RPJ5 Isabela 
+RPJ6 Kabankalan 
+RPJ8 Kidapawan 
+RPJ9 Koronadal 
+RPD2 La Carlota 
+RPD3 Laoag 
+RPD5 Legaspi 
+RPK2 Ligao 
+RPD6 Lipa 
+RPK3 Maasin 
+RPK6 Malaybalay 
+RPK7 Malolos 
+RPE1 Marawi 
+RPL1 Masbate 
+RPL2 Meycauayan 
+RPL3 Muñoz 
+RPE5 Oroquieta 
+RPE6 Ozamis 
+RPE7 Pagadian 
+RPE8 Palayan 
+RPL6 Panabo 
+RPL9 Passi 
+RPF3 Roxas 
+RPM1 Sagay 
+RPM2 Samal 
+RPF4 San Carlos (Negros Occidental) 
+RPF5 San Carlos (Pangasinan) 
+RPM3 San Fernando (La Union) 
+RPM4 San Fernando (Pampanga) 
+RPF6 San Jose 
+RPM5 San Jose del Monte 
+RPF7 San Pablo 
+RPM7 Santa Rosa 
+RPF8 Silay 
+RPN1 Sipalay 
+RPN2 Sorsogon 
+RPF9 Surigao 
+RPN4 Tabaco 
+RPN5 Tacurong 
+RPG2 Tagaytay 
+RPG3 Tagbilaran 
+RPN7 ,Tagum 
+RPN8 ,Talisay (Cebu) 
+RPN9 ,Talisay (Negros Occidental) 
+RPO1 ,Tanauan 
+RPG4 ,Tangub 
+RPO2 ,Tanjay 
+RPO3 ,Tarlac 
+RPG5 ,Toledo 
+RPG6 ,Trece Martires 
+RPO4 ,Tuguegarao 
+RPO5 ,Urdaneta 
+RPO6 ,Valencia 
+RPO8 ,Victorias 
+RPO9 ,Vigan 
+* Basilan City (RPA6) (inadvertently left in listing until now; former name of Isabela City (RPJ5)) 
+Change: ,"","",""
+SZ02 Ausser-Rhoden ,to ,SZ02 ,Appenzell Ausserrhoden 
+SZ10 Inner-Rhoden ,to ,SZ10 ,Appenzell Innerrhoden 
+Add: 
+viloyati poytakht (capital region) 
+TI04 Dushanbe 
+area ,""
+TI05 ,Nohiyahoi Tobei Jumhurí 
+Delete: 
+VM51 Hà Tây 
+
+
+UPDATE,9
+
+Delete: 
+AJ35 Naxçivan 
+AJ56 Şuşa 
+Add: 
+rayonu (district) 
+AJ72 Babək 
+AJ73 Culfa 
+AJ74 Kəngərli 
+AJ76 Ordubad 
+AJ77 Sədərək 
+AJ78 ,Şahbuz 
+AJ79 ,Şərur 
+şəhəri (city) 
+AJ75 Naxçivan 
+Change: ,"","",""
+AJ07 Əli Bayramlı ,to ,AJ07 ,Şirvan 
+AJ17 Dəvəçi ,to ,AJ17 ,Şabran 
+AJ62 Xanlar ,to ,AJ62 ,Göygöl 
+Add: 
+MU11 Shamāl al Bāţinah 
+MU12 Shamāl ash Sharqīyah 
+Change: ,"",""
+minţaqat (region) ,to  ,muḩāfazat (governorate) 
+MU01 Ad Dākhilīyah ,to ,MU01 Ad Dākhilīyah 
+MU02 Al Bāţinah ,to ,MU02 Janūb al Bāţinah 
+MU03 Al Wusţá ,to ,MU03 Al Wusţá 
+MU04 Ash Sharqīyah ,to ,MU04 Janūb ash Sharqīyah 
+MU09 Az Zāhirah ,to ,MU09 Az Zāhirah 
+Add: ,""
+KS22 ,Sejong 
+Add: ,""
+SU60 ,Sharq Dārfūr [Arabic] / Eastern Darfur [English] 
+SU61 ,Wasaţ Dārfūr [Arabic] / Central Darfur [English] 
+Change: ,"","",""
+SU47 Gharb Darfūr [Arabic] / ,"","",""
+Western Darfur [English] ,to ,SU47 ,Gharb Dārfūr [Arabic] / 
+"","","",Western Darfur [English] 
+SU49 Janūb Darfūr [Arabic] / ,"","",""
+Southern Darfur [English] ,to ,SU49 ,Janūb Dārfūr [Arabic] / 
+"","","",Southern Darfur [English] 
+SU55 ,Shimāl Darfūr [Arabic] / ,"","",""
+"",Northern Darfur [English] ,to ,SU55 ,Shimāl Dārfūr [Arabic] /  
+"","","","",Northern Darfur [English] 
+
+
+UPDATE,10
+
+Change: ,"","",""
+AJ33 Mingəcevir ,to ,AJ33 ,Mingəçevir 
+Change: ,"",""
+BE11  Brussels-Capital Region  ,to  ,BE11  Brussels-Capital Region 
+[conventional] / ,"",[conventional] / 
+Brussels Hoofdstedelijk [Dutch] / ,"",Brussels Hoofdstedelijk  
+Bruxelles-Capitale [French] ,"",Gewest [Dutch] /  
+"","",Bruxelles-Capitale [French] 
+Change: ,"",""
+province ,to ,département (department) 
+Change: ,"",""
+parish ,to ,municipality 
+BD06 Saint George ,to ,BD06 Saint George 
+Add: 
+distrikt (district) 
+BK03 Brcko District [conventional] / Brčko Distrikt [Serbocroatian] 
+Add: 
+union territory 
+BM18 Nay Pyi Taw 
+Change: ,"",""
+division ,to ,region 
+BM03 Ayeyarwady ,to ,BM03 Ayeyawady 
+BM16 Bago ,to ,BM16 Bago 
+BM15 Magway ,to ,BM15 Magway 
+BM08 Mandalay ,to ,BM08 Mandalay 
+BM10 Sagaing ,to  ,BM10 Sagaing 
+BM12 Tanintharyi ,to ,BM12 Taninthayi 
+BM17 Yangon ,to ,BM17 Yangon 
+Change: ,"",""
+CM11 Center [English] / Centre [French] ,to ,"CM11 Centre [English, French] "
+Change: ,"",""
+district  ,to ,eparchía (district) 
+CY01 Famagusta ,to ,CY01 Ammóchostos 
+CY02 Kyrenia ,to ,CY02 Kerýneia 
+CY03 Larnaca ,to ,CY03 Lárnaka 
+CY05 Limassol ,to ,CY05 Lemesós 
+CY04 Nicosia ,to ,CY04 Lefkosía 
+CY06 Paphos ,to ,CY06 Páfos 
+Change: ,"",""
+propinsi (province) ,to ,provinsi (province) 
+Change: ,"","",""
+IZ11 Arbīl ,to ,IZ11 ,Arbīl [Arabic] / 
+"","","",Hewlêr [Kurdish] / 
+IZ05 As Sulaymānīyah ,to ,IZ05 ,As Sulaymānīyah [Arabic] / 
+"","","",Slêmanî [Kurdish] 
+IZ08 Dahūk ,to ,IZ08 ,Dahūk [Arabic] / 
+"","","",Dihok [Kurdish] 
+Change: ,"","",""
+JA12 Hokkaido ,to ,JA12 ,Hokkaidō 
+Change: ,"","",""
+KV10 Kaçanik [Albanian] / ,to ,KV09 ,Kaçanik [Albanian] / 
+Kačanik [Serbian] ,"","",Kačanik [Serbian] 
+KV09 Kamenicë [Albanian] /  ,to ,KV10 ,Kamenicë [Albanian] / 
+Kamenica [Serbian] ,"","",Kamenica [Serbian] 
+Add: ,""
+LG34 ,Ādažu Novads 
+Add: ,""
+LI15 ,Bomi 
+LI16 ,Grand Kru 
+LI17 ,Margibi 
+LI18 ,River Cess 
+Add: 
+MK54 Kruševo 
+1.) Corrections to April 2010 GEC (Formerly FIPS 10-4) recompilation Table 2 
+Delete: 
+RP61 Surigao del Norte 
+RP64 Zamboanaga del Sur 
+Change: ,"",""
+charter city ,to ,charter city 
+RP63 Tarlac ,to ,RPO3 Tarlac 
+province ,to ,province 
+RPO3 Tarlac ,to ,RP63 Tarlac 
+RPP1 Zambales ,to ,RP64 Zambales 
+2.) Corrections to April 2010 GEC (Formerly FIPS 10-4) recompilation Appendix A 
+Delete: 
+RPN7 Taguig 
+Change: ,"",""
+RPN8 Tagum ,to ,RPN7 Tagum 
+RPN9 Talisay (Cebu) ,to ,RPN8 Talisay (Cebu) 
+RPO1 Talisay (Negros Occidental) ,to ,RPN9 Talisay (Negros Occidental) 
+RPO2  Tanauan ,to ,RPO1  Tanauan 
+RPO3  Tanjay ,to ,RPO2  Tanjay 
+RPO4  Tarlac ,to ,RPO3  Tarlac 
+RPO5  Tuguegarao ,to ,RPO4  Tuguegarao 
+RPO6  Urdaneta ,to ,RPO5  Urdaneta 
+RPO7  Valencia ,to ,RPO6  Valencia 
+RPO8  Valenzuela ,to ,RPO7  Valenzuela 
+RPO9  Victorias ,to ,RPO8  Victorias 
+RPP1  Vigan ,to ,RPO9 Vigan 
+RPP2  Zamboanaga del Sur ,to ,RPP1  Zamboanaga del Sur 
+RPP3  Zamboanga Sibugay ,to ,RPP2  Zamboanga Sibugay 
+Add: ,""
+TZ28 ,"Geita [English, Swahili] "
+TZ29 ,"Katavi [English, Swahili] "
+TZ30 ,"Njombe [English, Swahili] "
+TZ31 ,"Simiyu [English, Swahili] "
+Change: ,"","",""
+TZ26 Arusha ,to ,TZ26 ,"Arusha [English, Swahili] "
+TZ23 Dar es Salaam ,to ,TZ23 ,Dar es Salaam [English] / 
+"","","",Dar Es Salaam [Swahili] 
+TZ03 Dodoma ,to ,TZ03 ,"Dodoma [English, Swahili] "
+TZ04 ,Iringa ,to ,TZ04 ,"Iringa [English, Swahili] "
+TZ19 ,Kagera ,to ,TZ19 ,"Kagera [English, Swahili] "
+TZ05 ,Kigoma ,to ,TZ05 ,"Kigoma [English, Swahili] "
+TZ06 ,Kilimanjaro ,to ,TZ06 ,"Kilimanjaro [English, Swahili] "
+TZ07 ,Lindi ,to ,TZ07  ,"Lindi [English, Swahili] "
+TZ27 ,Manyara ,to ,TZ27 ,"Manyara [English, Swahili] "
+TZ08 ,Mara ,to ,TZ08 ,"Mara [English, Swahili] "
+TZ09 ,Mbeya  ,to ,TZ09 ,"Mbeya [English, Swahili] "
+TZ10 ,Morogoro ,to ,TZ10 ,"Morogoro [English, Swahili] "
+TZ11 ,Mtwara ,to ,TZ11 ,"Mtwara [English, Swahili] "
+TZ12 ,Mwanza ,to ,TZ12 ,"Mwanza [English, Swahili] "
+TZ13 ,Pemba North ,to ,TZ13 ,Pemba North [English] / 
+"","","","",Kaskazini Pemba [Swahili] 
+TZ20 ,Pemba South ,to ,TZ20 ,Pemba South [English] / 
+"","","","",Kusini Pemba [Swahili] 
+TZ02 ,Pwani ,to ,TZ02 ,Coast [English] / 
+"","","","",Pwani [Swahili] 
+TZ24 ,Rukwa ,to ,TZ24 ,"Rukwa [English, Swahili] "
+TZ14 ,Ruvuma ,to ,TZ14 ,"Ruvuma [English, Swahili] "
+TZ15 ,Shinyanga ,to ,TZ15 ,"Shinyanga [English, Swahili] "
+TZ16 ,Singida ,to ,TZ16 ,"Singida [English, Swahili] "
+TZ17 ,Tabora ,to ,TZ17 ,"Tabora [English, Swahili] "
+TZ18 ,Tanga ,to ,TZ18 ,"Tanga [English, Swahili] "
+TZ21 ,Zanzibar Central/South ,to ,TZ21 ,Zanzibar Central/South [English] / 
+"","","","",Kusini Unguja [Swahili] 
+TZ22 ,Zanzibar North ,to ,TZ22 ,Zanzibar North [English] / 
+"","","","",Kaskazini Unguja [Swahili] 
+TZ25 ,Zanzibar Urban/West ,to ,TZ25 ,Zanzibar Urban/West [English] /  
+"","","","",Mjini Magharibi [Swahili] 
+TH40 ,Krung Thep Mahanakhon ,to ,TH40 ,Krung Thep 
+Add: ,""
+ZA10 ,Muchinga 
+
+
+UPDATE,11
+
+Change: ,"",""
+rayonu (district) ,to ,rayon (district) 
+şəhəri (city) ,to ,şəhər (city) 
+Change: ,"","",""
+"BK01 Bosnia and Herzegovina, ","","",""
+Federation of [conventional] / ,"","",""
+"Bosne i Hercegovine, Federacija ","","",""
+[Serbocroatian] ,to ,BK01 ,"Bosnia and Herzegovina, "
+"","","",Federation of [conventional] / 
+"","","","Bosne i Hercegovine, Federacija "
+"","","","[Bosnian, Croatian, Serbian] "
+"BK02 Srpska, Republika ",to ,BK02 ,"Srpska, Republika "
+"","","","[Bosnian, Croatian, Serbian] "
+BK03 Brcko District [conventional] /  ,"","",""
+Brčko Distrikt [Serbocroatian] ,to ,BK03 ,Brcko District [conventional] / 
+"","","","Brčko Distrikt [Bosnian, Croatian, "
+"","","", Serbian] 
+Change: ,"","",""
+BC08  North-East ,to ,BC08 ,North East 
+BC09 South-East ,to ,BC09 ,South East 
+Change: ,"","",""
+BY09 Bubanza ,to ,BY09 ,"Bubanza [French, Kirundi] "
+BY24 Bujumbura Mairie ,to ,BY24 ,"Bujumbura Mairie [French, Kirundi] "
+BY25 Bujumbura Rural ,to ,BY25 ,"Bujumbura Rural [French, Kirundi] "
+BY10 Bururi ,to ,BY10 ,"Bururi [French, Kirundi] "
+BY11 Cankuzo ,to ,BY11 ,"Cankuzo [French, Kirundi] "
+BY12 Cibitoke ,to ,BY12 ,"Cibitoke [French, Kirundi] "
+BY13 Gitega ,to ,BY13 ,"Gitega [French, Kirundi] "
+BY14 Karuzi ,to ,BY14 ,"Karuzi [French, Kirundi] "
+BY15 Kayanza ,to ,BY15 ,"Kayanza [French, Kirundi] "
+BY16 Kirundo ,to ,BY16 ,"Kirundo [French, Kirundi] "
+BY17 Makamba ,to ,BY17 ,"Makamba [French, Kirundi] "
+BY22 Muramvya ,to ,BY22 ,"Muramvya [French, Kirundi] "
+BY18 Muyinga ,to ,BY18 ,"Muyinga [French, Kirundi] "
+BY23 Mwaro ,to ,BY23 ,"Mwaro [French, Kirundi] "
+BY19 Ngozi ,to ,BY19 ,"Ngozi [French, Kirundi] "
+BY20 Rutana ,to ,BY20 ,"Rutana [French, Kirundi] "
+BY21 Ruyigi ,to ,BY21 ,"Ruyigi [French, Kirundi] "
+Change: ,"","",""
+CB25 Bântéay Méan Choăy ,to ,CB25 ,Banteay Meanchay [conventional] / 
+"","","",Bântéay Méan Choăy [Khmer] 
+CB29 Bătdâmbâng ,to ,CB29 ,Battambang [conventional] / 
+"","","",Bătdâmbâng [Khmer] 
+CB02 Kâmpóng Cham ,to ,CB02 ,Kampong Cham [conventional] / 
+"","","",Kâmpóng Cham [Khmer] 
+CB03 Kâmpóng Chhnăng ,to ,CB03 ,Kampong Chhnang [conventional] /  
+"","","",Kâmpóng Chhnăng [Khmer] 
+CB04 Kâmpóng Spœ ,to ,CB04 ,Kampong Spue [conventional] / 
+"","","",Kâmpóng Spœ [Khmer] 
+CB05 Kâmpóng Thum ,to ,CB05 ,Kampong Thom [conventional] / 
+"","","",Kâmpóng Thum [Khmer] 
+CB21 Kâmpôt ,to ,CB21 ,Kampot [conventional] /  
+"","","",Kâmpôt [Khmer] 
+CB07 Kândal ,to ,CB07 ,Kandal [conventional] / 
+"","","",Kândal [Khmer] 
+CB08 Kaôh Kŏng ,to ,CB08 ,Koh Kong [conventional] / 
+"","","",Kaôh Kŏng [Khmer] 
+CB26 Kêb ,to ,CB26 ,Kep [conventional] / 
+"","","",Kêb [Khmer] 
+CB09 ,Krâchéh ,to ,CB09 ,Kratie [conventional] / 
+"","","","",Krâchéh [Khmer] 
+CB10,Môndól Kiri ,to ,CB10,Mondolkiri [conventional] / 
+"","","","",Môndôl Kiri [Khmer] 
+CB27 ,Ŏtdâr Méan Choăy ,to ,CB27 ,Oddar Meanchey [conventional] / 
+"","","","",Ŏtdâr Méan Choăy [Khmer] 
+CB30 ,Pailĭn ,to ,CB30 ,Pailin [conventional] / 
+"","","","",Pailĭn [Khmer] 
+CB22 ,Phnum Pénh ,to ,CB22 ,Phnom Penh [conventional] / 
+"","","","",Phnum Pénh [Khmer] 
+CB12 ,Poŭthĭsăt ,to ,CB12 ,Pursat [conventional] / 
+"","","","",Poŭthĭsăt [Khmer] 
+CB28 ,Preăh Seihânŭ ,to ,CB28 ,Sihanoukville [conventional] / 
+"","","","",Preăh Seihânŭ [Khmer] 
+CB13 ,Preăh Vĭhéar ,to ,CB13 ,Preah Vihear [conventional] / 
+"","","","",Preăh Vĭhéar [Khmer] 
+CB14 ,Prey Vêng ,to ,CB14 ,Prey Veng [conventional] /  
+"","","","",Prey Vêng [Khmer] 
+CB23 ,Rôtânôkiri ,to ,CB23 ,Ratanakiri [conventional] / 
+"","","","",Rôtânôkiri [Khmer] 
+CB24 ,Siĕm Réab ,to ,CB24 ,Siem Reap [conventional] / 
+"","","","",Siĕm Réab [Khmer] 
+CB17 ,Stœng Trêng ,to ,CB17 ,Stung Treng [conventional] / 
+"","","","",Stœng Trêng [Khmer] 
+CB18 ,Svay Riĕng ,to ,CB18 ,Svay Rieng [conventional] / 
+"","","","",Svay Riĕng [Khmer] 
+CB19 ,Takêv ,to ,CB19 ,Takeo [conventional] /  
+"","","","",Takêv [Khmer] 
+Change: ,"","",""
+CV25São Lourenço dos Orgãos ,to ,CV25,São Lourenço dos Órgãos 
+Change: ,"",""
+CO34 Distrito Capital ,to ,CO34  Bogotá 
+Change: ,"",""
+CN01  Anjouan ,to  ,CN01  Hanzwān [Arabic] / 
+"","",Ndzuwani [Comoran] / 
+"","",Anjouan [French] /  
+CN02 Grande Comore ,to ,CN02 Inghāzījā [Arabic] / 
+"","",N’gazidja [Comoran] / 
+"","",Grande Comore [French] 
+CN03 Mohéli ,to ,CN03 Mūhaylī [Arabic] / 
+"","",Mwali [Comoran] / 
+"","",Mohéli [French] 
+Change: ,"","",""
+CG09 Haut-Zaire ,to ,CG09 ,Orientale 
+Change: ,"","",""
+HR01 Bjelovarsko-Bilogorska ,to ,HR01 ,Bjelovarsko-Bilogorska Županija 
+HR02 Brodsko-Posavska ,to ,HR02 ,Brodsko-Posavska Županija 
+HR03 Dubrovačko-Neretvanska ,to ,HR03 ,Dubrovačko-Neretvanska Županija 
+HR04 Istarska ,to ,HR04 ,Istarska Županija 
+HR05 Karlovačka ,to ,HR05 ,Karlovačka Županija 
+HR06 Koprivničko-Križevačka ,to ,HR06 ,Koprivničko-Križevačka Županija  
+HR07 Krapinsko-Zagorska ,to ,HR07 ,Krapinsko-Zagorska Županija 
+HR08 Ličko-Senjska ,to ,HR08 ,Ličko-Senjska Županija 
+HR09 Međimurska ,to ,HR09 ,Međimurska Županija 
+HR10 Osječko-Baranjska ,to ,HR10 ,Osječko-Baranjska Županija 
+HR11 Požeško-Slavonska ,to ,HR11 ,Požeško-Slavonska Županija 
+HR12 Primorsko-Goranska ,to ,HR12 ,Primorsko-Goranska Županija 
+HR13 Šibensko-Kninska ,to ,HR13 ,Šibensko-Kninska Županija 
+HR14 Sisačko-Moslavačka ,to ,HR14 ,Sisačko-Moslavačka Županija 
+HR15 Splitsko-Dalmatinska ,to ,HR15 ,Splitsko-Dalmatinska Županija 
+HR16 Varaždinska ,to ,HR16 ,Varaždinska Županija 
+HR17 Virovitičko-Podravska ,to ,HR17 ,Virovitičko-Podravska Županija 
+HR18 ,Vukovarsko-Srijemska ,to ,HR18 ,Vukovarsko-Srijemska Županija 
+HR19 ,Zadarska ,to ,HR19 ,Zadarska Županija 
+HR20 ,Zagrebačka ,to ,HR20 ,Zagrebačka Županija 
+Change: ,"","",""
+EZ87 Plzĕnský Kraj ,to ,EZ87 ,Plzeňský Kraj  
+Change: ,"",""
+avtonomiuri respublika ,to ,avt’onomiuri resp’ublik’a 
+(autonomous republic) ,"",(autonomous republic) 
+GG04 Ajaria [conventional] / ,to ,GG04  Ajaria [conventional] / 
+Achara [Georgian] ,"",Ach’ara [Georgian] 
+Change: ,"",""
+municipality ,to ,kommunia (municipality) 
+Change:  ,"",""
+GV13  Guéckédou ,to ,GV13  Guékédou 
+Change: ,"","",""
+ID04  Jakarta Raya ,to ,ID04  ,Jakarta 
+Change: ,"","",""
+IT01 Abruzzi ,to ,IT01 ,Abruzzo 
+IT14  Sardinia [conventional] / ,to  ,IT14  ,Sardegna 
+Sardegna [Italian] ,"","",""
+IT15 ,Sicily [conventional] / ,to  ,IT15  ,Sicilia  
+"",Sicilia [Italian] ,"","",""
+Change: ,"",""
+-ken (prefecture) ,to ,ken (prefecture) 
+-ken (prefecture) ,to ,do (prefecture) 
+JA12 Hokkaidō ,to ,JA12 Hokkaidō 
+Change: ,"",""
+oblysy {Kazakh] / ,"",""
+oblast’ [Russian] (province) ,to ,oblys {Kazakh] / 
+"","",oblast’ [Russian] (province) 
+qalasy [Kazakh] / gorod [Russian] (city) ,to ,qala [Kazakh] / gorod [Russian] (city) 
+Delete: 
+province 
+KE01 Central 
+KE02 Coast 
+KE03 Eastern 
+20
+KE06 North-Eastern 
+KE07 Nyanza 
+KE08 Rift Valley 
+KE09 Western 
+Add: ,""
+county ,""
+KE10 ,Baringo 
+KE11 ,Bomet 
+KE12 ,Bungoma 
+KE13 ,Busia 
+KE14 ,Elgeyo/Marakwet 
+KE15 ,Embu 
+KE16 ,Garissa 
+KE17 ,Homa Bay 
+KE18 ,Isiolo 
+KE19 ,Kajiado 
+KE20 ,Kakamega 
+KE21 ,Kericho 
+KE22 ,Kiambu 
+KE23 ,Kilifi 
+KE24 ,Kirinyaga 
+KE25 ,Kisii 
+KE26 ,Kisumu 
+KE27 ,Kitui 
+KE28 ,Kwale 
+KE29 ,Laikipia 
+KE30 ,Lamu 
+KE31 ,Machakos 
+KE32 ,Makueni 
+KE33 ,Mandera 
+KE34 ,Marsabit 
+KE35 ,Meru 
+KE36 ,Migori 
+KE37 ,Mombasa 
+KE38 ,Murang’a 
+KE39 ,Nakuru 
+KE40 ,Nandi 
+KE41 ,Narok 
+KE42 ,Nyamira 
+KE43 ,Nyandarua 
+KE44 ,Nyeri 
+KE45 ,Samburu 
+KE46 ,Siaya 
+KE47 ,Taita/Taveta 
+KE48 ,Tana River 
+KE49 ,Tharaka-Nithi 
+KE50 ,Trans Nzoia 
+KE51 ,Turkana 
+KE52 ,Uasin Gishu 
+KE53 ,Vihiga 
+KE54 ,Wajir 
+KE55 ,West Pokot 
+Change: ,"","",""
+area ,to ,county ,""
+KE05 Nariobi Area ,to ,KE05 ,Nairobi City 
+Change: ,"",""
+oblysy [Kirghiz] / oblast’ [Russian] ,"",""
+(province) ,to ,oblast [Kirghiz] / oblast’ [Russian] 
+"","",(province) 
+KG04 Naryn [Kirghiz] /  ,"",""
+Naryaskaya Oblast’ [Russian] ,to ,KG04 Naryn [Kirghiz] /  
+"","",Narynskaya Oblast’ [Russian] 
+Change: ,"",""
+LA13  Xiagnabouli ,to ,LA13  Xaignabouli 
+kampèng nakhon (city) ,to ,kamphèng nakhon (city) 
+LA24 Viangchan ,to ,LA24 Viangchan 
+Change: ,"","",""
+LT15  Mohales Hoek ,to ,LT15  ,Mohale’s Hoek 
+LT17 Qachas Nek ,to ,LT17 ,Qacha’s Nek 
+Change: ,"",""
+shaibiyat (popularate) ,to ,sha‘bīyah (popularate) 
+The following principal administrative divisions should have appeared in FIPS 10-4 (April 1995). 
+The information was superseded by FIPS 10-4 Change Notice 7 
+LH01 Akmenės Rajonas 
+LH02 Alytaus Rajonas 
+LH03 Alytus 
+LH04 Anykščių Rajonas 
+LH05 Birštonas 
+LH06 Biržų Rajonas 
+LH07 Druskininkai 
+LH08 Ignalinos Rajonas 
+LH09 Jonavos Rajonas 
+LH10 Joniškio Rajonas 
+LH11 Jurbarko Rajonas 
+LH12 Kaišiadorių Rajonas 
+LH13 Kaunas 
+LH14 Kauno Rajonas 
+LH15 Kėdainių Rajonas 
+LH16 Kelmės Rajonas 
+LH17 Klaipėda 
+LH18 Klaipėdos Rajonas 
+LH19 Kretingos Rajonas 
+LH20 Kupiškio Rajonas 
+LH21 Lazdijų Rajonas 
+LH22 Marijampolė 
+LH23 Marijampolės Rajonas 
+LH24 Mažeikių Rajonas 
+LH25 Molėtų Rajonas 
+LH26 Neringa 
+LH27 Pakruojo Rajonas 
+LH28 Palanga 
+LH29 ,Panevėžio Rajonas 
+LH30 ,Panevėžys 
+LH31 ,Pasvalio Rajonas 
+LH32 ,Plungės Rajonas 
+LH33 ,Prienų Rajonas 
+LH34 ,Radviliškio Rajonas 
+LH35 ,Raseinių Rajonas 
+LH36 ,Rokiškio Rajonas 
+LH37 ,Šakių Rajonas 
+LH38 ,Šalčininkų Rajonas 
+LH39 ,Šiauliai 
+LH40 ,Šiaulių Rajonas 
+LH41 ,Šilalės Rajonas 
+LH42 ,Šilutės Rajonas 
+LH43 ,Širvintų Rajonas 
+LH44 ,Skuodo Rajonas 
+LH45 ,Švenčionių Rajonas 
+LH46 ,Tauragės Rajonas 
+LH47 ,Telšių Rajonas 
+LH48 ,Trakų Rajonas 
+LH49 ,Ukmergės Rajonas 
+LH50 ,Utenos Rajonas 
+LH51 ,Varėnos Rajonas 
+LH52 ,Vilkaviškio Rajonas 
+LH53 ,Vilniaus Rajonas 
+LH54 ,Vilnius 
+LH55 ,Zarasų Rajonas 
+Change: ,"",""
+MA05 Antananarivo ,to ,"MA05 Antananarivo [French, Malagasy] "
+MA02 Fianarantsoa  ,to ,"MA02 Fianarantsoa [French, Malagasy] "
+MA03 Mahajanga ,to ,"MA03 Mahajanga [French, Malagasy] "
+MA04 Toamasina ,to ,"MA04 Toamasina [French, Malagasy] "
+MA06 Toliara ,to ,"MA06 Toliara [French, Malagasy] "
+Change: ,"",""
+région (region) ,to ,district 
+MA01 Bamako ,"",MA01 Bamako 
+Change: ,"",""
+région (region) ,to ,wilaya (region) 
+Change: ,"",""
+island ,to ,state 
+Change: ,"",""
+unitatea teritorială (territorial unit) ,to ,unitatea teritorială autonomă 
+"","",(autonomous territorial unit) 
+MD51  Găgăuzia ,to ,MD51 Găgăuzia 
+Change: ,"",""
+KN01  Chagang-do ,to ,KN01  Chagang 
+KN17 Hamgyŏng-bukto ,to ,KN17 Hambuk 
+KN03 Hamgyŏng-namdo ,to ,KN03 Hamnam 
+KN07 Hwanghae-bukto ,to ,KN07 Hwangbuk 
+KN06 Hwanghae-namdo ,to ,KN06 Hwangnam 
+KN09 Kangwŏn-do ,to ,KN09 Kangwŏn 
+KN18 Nasŏn-si ,to ,KN18 Nasŏn 
+KN11 P’yŏngan-bukto ,to ,KN11 P’yŏngbuk 
+KN15 P’yŏngan-namdo ,to ,KN15 P’yŏngnam 
+KN12 P’yŏngyang-si ,to ,KN12 P’yŏngyang 
+KN13 Yanggang-do ,to ,KN13 Yanggang 
+Add: ,""
+PS01 ,Aimeliik 
+Change: ,"","",""
+PS07  Melekeok ,to ,PS07 ,"Melekeok [English, Palauan]  "
+PS10 Ngardmau ,to ,PS10 ,"Ngardmau [English, Palauan]  "
+PS13 Ngeremlengui ,to ,PS13 ,"Ngeremlengui [English, Palauan] "
+Add: ,""
+PP21 ,Hela 
+PP22 ,Jiwaka 
+Change: ,"",""
+PP18 Sandaun ,to ,PP18  West Sepik 
+province ,to  ,autonomous region 
+PP07 Bougainville ,to ,PP07 Bougainville 
+Change: ,"",""
+charter city ,"",province 
+RPM9 Sarangani ,to ,RPM9  Sarangani 
+province ,to ,province 
+RP72 Tawitawi ,to ,RP72 Tawi-Tawi 
+Change: ,"","",""
+PO23 Azores ,to ,PO23 ,Azores [conventional] /  
+"","","",Açores [Portuguese] 
+PO10 Madeira ,to ,PO10 ,"Madeira [conventional, Portuguese] "
+Change: ,"",""
+city ,to ,"city [English, French] / "
+"","",umujyi [Kinyarwanda] 
+RW12 Kigali ,to ,RW12 Kigali  
+"","","[English, French, Kinyarwanda] "
+province ,to ,"province [English, French] / "
+"","",intara [Kinyarwanda] 
+RW11 Est ,to ,RW11 Eastern Province [English] /  
+"","",Est [French] / 
+"","",Iburasirazuba [Kinyarwanda] 
+RW13 Nord ,to ,RW13 Northern Province [English] / 
+"","",Nord [French] / 
+"","",Amajyaruguru [Kinyarwanda] 
+RW14 Ouest ,to ,RW14 Western Province [English] / 
+"","",Ouest [French] / 
+"","",Iburengerazuba [Kinyarwanda] 
+RW15 Sud ,to ,RW15 Southern Province [English] / 
+"","",Sud [French] / 
+"","",Amajyepfo [Kinyarwanda] 
+Add: 
+grad (city) 
+RI19 Beograd 
+RI28 Čačak 
+RI43 Jagodina 
+RI53 Kragujevac 
+RI54 Kraljevo 
+RI56 ,Kruševac 
+RI63 ,Leskovac 
+RI66 ,Loznica 
+RI76 ,Niš 
+RI81 ,Novi Pazar 
+RI82 ,Novi Sad 
+RI86 ,Pančevo 
+RI92 ,Požarevac 
+RIA4 ,Šabac 
+RIA9 ,Smederevo 
+RIB3 ,Sombor 
+RIB5 ,Sremska Mitrovica 
+RIB8 ,Subotica 
+RID1 ,Užice 
+RID2 ,Valjevo 
+RID9 ,Vranje 
+RIE7 ,Zaječar 
+RIF1 ,Zrenjanin 
+opština (municipality) 
+RI01 Ada 
+RI02 Aleksandrovac 
+RI03 Aleksinac 
+RI04 Alibunar 
+RI05 Apatin 
+RI06 Aranđelovac 
+RI07 Arilje 
+RI08 Babušnica 
+RI09 Bač 
+RI10 Bačka Palanka 
+RI11 Bačka Topola 
+RI12 Bački Petrovac 
+RI13 Bajina Bašta 
+RI14 Batočina 
+RI15 Bečej 
+RI16 Bela Crkva 
+RI17 Bela Palanka 
+RI18 Beočin  
+RI20 Blace 
+RI21 ,Bogatić 
+RI22 ,Bojnik 
+RI23 ,Boljevac 
+RI24 ,Bor 
+RI25 ,Bosilegrad 
+RI26 ,Brus 
+RI27 ,Bujanovac 
+RI29 ,Čajetina 
+RI30 ,Ćićevac 
+RI31 ,Čoka 
+RI32 ,Crna Trava 
+RI33 ,Ćuprija 
+RI34 ,Despotovac 
+RI35 ,Dimitrovgrad 
+RI36 ,Doljevac 
+RI37 ,Gadžin Han 
+RI38 ,Golubac 
+RI39 ,Gornji Milanovac 
+RI40 ,Inđija 
+RI41 ,Irig 
+RI42 ,Ivanjica 
+RI44 ,Kanjiža 
+RI45 ,Kikinda 
+RI46 ,Kladovo 
+RI47 ,Knić 
+RI48 ,Knjaževac 
+RI49 ,Koceljeva 
+RI50 ,Kosjerić 
+RI51 ,Kovačica 
+RI52 ,Kovin 
+RI55 ,Krupanj 
+RI57 ,Kučevo 
+RI58 ,Kula 
+RI59 ,Kuršumlija 
+RI60 ,Lajkovac 
+RI61 ,Lapovo 
+RI62 ,Lebane 
+RI64 ,Ljig 
+RI65 ,Ljubovija 
+RI67 ,Lučani 
+RI68 ,Majdanpek 
+RI69 ,Mali Iđoš 
+RI70 ,Mali Zvornik 
+RI71 ,Malo Crniće 
+RI72 ,Medveđa 
+RI73 ,Merošina 
+RI74 ,Mionica 
+RI75 ,Negotin 
+RI77 ,Nova Crnja 
+RI78 ,Nova Varoš 
+RI79 ,Novi Bečej 
+RI80 ,Novi Kneževac 
+RI83 ,Odžaci 
+RI84 ,Opovo 
+RI85 ,Oseči 
+RI87 ,Paraćin 
+RI88 ,Pećinci 
+RI89 ,Petrovac na Mlavi 
+RI90 ,Pirot 
+RI91 ,Plandište 
+RI93 ,Požega 
+RI94 ,Preševo 
+RI95 ,Priboj 
+RI96 ,Prijepolje 
+RI97 ,Prokuplje 
+RI98 ,Rača 
+RI99 ,Raška 
+RIA1 ,Ražanj 
+RIA2 ,Rekovac 
+RIA3 ,Ruma 
+RIA5 ,Sečanj 
+RIA6 ,Senta 
+RIA7 ,Šid 
+RIA8 ,Sjenica 
+RIB1 ,Smederevska Palanka 
+RIB2 ,Sokobanja 
+RIB4 ,Srbobran 
+RIB6 ,Sremski Karlovci 
+RIB7 ,Stara Pazova 
+RIB9 ,Surdulica 
+RIC1 ,Svilajnac 
+RIC2 ,Svrljig 
+RIC3 ,Temerin 
+RIC4 ,Titel 
+RIC5 ,Topola 
+RIC6 ,Trgovište 
+RIC7 ,Trstenik 
+RIC8 ,Tutin 
+RIC9 ,Ub 
+RID3 ,Varvarin 
+RID4 ,Velika Plana 
+RID5 ,Veliko Gradište 
+RID6 ,Vladičin Han 
+RID7 ,Vladimirci 
+RID8 ,Vlasotince 
+RIE1 ,Vrbas 
+RIE2 ,Vrnjačka Banja 
+RIE3 ,Vršac 
+RIE4 ,Žabalj 
+RIE5 ,Žabari 
+RIE6 ,Žagubica 
+RIE8 ,Žitište 
+RIE9 ,Žitorađa 
+Change: ,"","",""
+SID1 Sveti Jurij ,to ,SID1 ,Sveti Jurij ob Ščavnici 
+Change: ,"",""
+SU38 Al Jazīrah ,to ,SU38 Al Jazīra [Arabic] / 
+"","",Gezira [English] 
+SU43  Ash Shamālīyah ,to  ,SU43  Ash Shimālīyya [Arabic] / 
+"","",Northern [English] 
+Delete: 
+WZ05 Praslin 
+Change: ,"",""
+SW10 Dalarna Län ,to ,SW10 Dalarnas Län 
+SW07 Jämtland ,to ,SW07 Jämtlands Län 
+SW08 Jönköping ,to ,SW08 Jönköpings Län 
+SW09 Kalmar ,to ,SW09 Kalmar Län 
+SW12 Kronoberg ,to ,SW12 Kronobergs Län 
+SW14 Norrbotten ,to ,SW14 Norrbottens Län 
+SW15 Örebro ,to ,SW15 Örebro Län 
+SW16 Östergötland ,to ,SW16 Östergötlands Län 
+SW27 Skåne ,to ,SW27 Skåne Län 
+SW18 Södermanland ,to ,SW18 Södermanlands Län 
+SW26 Stockholm ,to ,SW26 Stockholms Län 
+SW21 Uppsala ,to ,SW21 Uppsala Län 
+SW22 Värmland ,to ,SW22 Värmlands Län 
+SW23 Västerbotten ,to ,SW23 Västerbottens Län 
+SW24 Västernorrland ,to ,SW24 Västernorrlands Län 
+SW25 Västmanland ,to ,SW25 Västmanlands Län 
+SW28 Västra Götaland ,to ,SW28 Västra Götalands Län 
+Add: 
+TW10 Hualien [conventional] / Hualian [Chinese] 
+TW12 Keelung [conventional] / Jilong [Chinese] 
+"TW25  Taoyuan [conventional, Chinese] "
+Change: ,"","",""
+TT01 Aileu ,to ,TT01 ,"Aileu [Portuguese, Tetum]  "
+TT02 Ainaro ,to ,TT02 ,"Ainaro [Portuguese, Tetum] "
+TT03 Baucau ,to ,TT03 ,"Baucau [Portuguese, Tetum] "
+TT04 ,Bobonaro ,to  ,TT04 ,"Bobonaro [Portuguese, Tetum] "
+TT05 ,Cova Lima ,to ,TT05 ,"Cova Lima [Portuguese, Tetum]"
+TT06 ,Díli ,to ,TT06 ,"Díli [Portuguese, Tetum] "
+TT07 ,Ermera ,to ,TT07 ,"Ermera [Portuguese, Tetum] "
+TT08 ,Lautém ,to ,TT08 ,"Lautém [Portuguese, Tetum] "
+TT09 ,Liquiçá ,to ,TT09 ,"Liquiçá [Portuguese, Tetum] "
+TT10 ,Manatuto ,to ,TT10 ,"Manatuto [Portuguese, Tetum] "
+TT11 ,Manufahi ,to ,TT11 ,"Manufahi [Portuguese, Tetum] "
+TT12 ,Oecussi-Ambeno ,to ,TT12 ,Oecussi-Ambeno 
+"","","","","[Portuguese, Tetum] "
+TT13 ,Viqueque ,to ,TT13 ,"Viqueque [Portuguese, Tetum] "
+Change: ,"","",""
+TS03 Karouan ,to ,TS03 ,Kairouan 
+Change: ,"",""
+ili (province) ,to ,il (province) 
+TU87 Bartın İli ,to ,TU87 Bartın 
+Change: ,"",""
+velayat [Russian] /,"",""
+welaýat [Turkmen] (province) ,to ,welaýat (province) 
+Change: ,"","",""
+district  ,to ,city ,""
+UG37 Kampala ,to ,UG37 ,Kampala 
+47,"","","","",""
+ENGLAND ,"","","","",""
+Change: ,"","","","",""
+county  ,"","","",to ,unitary authority 
+UKF7 Herefordshire ,"","","",to ,UKF7 Herefordshire 
+UKZ5 Bedford ,"","","",to ,UKZ5 Bedford 
+"","","48, ",49,"",""
+NORTHERN IRELAND ,"","","","",""
+Change: ,"","","","",""
+UK70 Londonderry ,"","","",to ,UKS6 Derry  
+Change: ,"","","","",""
+city ,"","","",to ,district 
+"",50,"","","",""
+SCOTLAND ,"","","","",""
+Change: ,"","","","",""
+region  ,"","","",to ,council area 
+51,"","","","",""
+WALES ,"","","","",""
+Change: ,"","","","",""
+county borough ,"","","",to ,unitary authority 
+county  ,"","","",to ,unitary authority 
+city and county ,"","","",to ,unitary authority 
+Change: ,"",""
+wiloyati (province) ,to ,viloyat (province) 
+UZ02 Bukhoro ,to ,UZ02 Buxoro 
+UZ03 Farghona ,to ,UZ03 Farg‘ona 
+UZ15 Jizzakh ,to ,UZ15 Jizzax 
+UZ05 Khorazm ,to ,UZ05 Xorazm 
+UZ07 Nawoiy ,to ,UZ07 Navoiy 
+UZ12 Surkhondaryo ,to ,UZ12 Surxondaryo 
+respublikasi (republic) ,to ,respublika (republic) 
+UZ09 Qoraqalpoghiston ,to ,UZ09 Qoraqalpog‘iston 
+shahri (city) ,to ,shahar (city) 
+Change: ,"",""
+district  ,to ,province 
+Change: ,"",""
+VM44 Ha Nội ,to ,VM44 Hà Nội
+
+
+UPDATE,12
+
+Change: ,"","",""
+BA18 Al Wusţá ,to ,BA19 ,Al Wusţá 
+BA19 Ash Shamālīyah ,to  ,BA18 ,Ash Shamālīyah 
+CA05 ,Newfoundland and Labrador [English] / ,"",""
+"",Terre Neuve-et-Labrador [French] to ,CA05 ,Newfoundland and Labrador [English] / 
+"","","",Terre-Neuve-et-Labrador [French] 
+Change: ,"",""
+concelho (district) ,to ,concelho (municipality) 
+Delete: 
+CD24 Ennedi 
+Add: 
+région (region) 
+CD27 Ennedi-Est 
+CD28 Ennedi-Ouest 
+Change: ,"",""
+CN01  Hanzwān [Arabic] / ,to  ,CN01  Hanzwān [Arabic] / 
+Ndzuwani [Comoran] / ,"",Ndzuwani [Ndzwani Comorian] / 
+Anjouan [French] / ,"",Anjouan [French] /  
+CN02 ,Inghāzījā [Arabic] / ,to ,CN02 ,Inghāzījā [Arabic] / 
+"",N’gazidja [Comoran] / ,"","",N’gazidja [Ngazidja Comorian] / 
+"",Grande Comore [French] ,"","",Grande Comore [French] 
+CN03 ,Mūhaylī [Arabic] / ,to ,CN03 ,Mūhaylī [Arabic] / 
+"",Mwali [Comoran] / ,"","",Mwali [Mwali Comorian] / 
+"",Mohéli [French] ,"","",Mohéli [French] 
+Delete: 
+préfecture (prefecture) 
+GV01 Beyla 
+GV02 Boffa 
+GV03 Boké 
+GV30 Coyah 
+GV05 Dabola 
+GV06 Dalaba 
+GV07 Dinguiraye 
+GV31 Dubréka 
+GV09 Faranah 
+GV10 Forécariah 
+GV11 Fria 
+GV12  Gaoual 
+GV13 Guékédou 
+GV32 Kankan 
+GV15 Kérouané 
+GV16 Kindia 
+GV17 Kissidougou 
+GV33 Koubia 
+GV18 Koundara 
+GV19 Kouroussa 
+GV34 Labé 
+GV35 Lélouma 
+GV36 Lola 
+GV21 Macenta 
+GV22 Mali 
+GV23 Mamou 
+GV37 Mandiana 
+GV38 Nzérékoré 
+GV25 Pita 
+GV39 ,Siguiri 
+GV27 ,Télimélé 
+GV28 ,Tougué 
+GV29 ,Youmou 
+Add: 
+région administrative (administrative region) 
+GV40 Boké 
+GV41 Faranah 
+GV42 Kankan 
+GV43 Kindia 
+GV44 Labé 
+GV45 Mamou 
+GV46 N’Zérékoré 
+Change: ,"",""
+capitale d’état-zone speciale  ,to ,gouvenorat (governorate) 
+(national capital-special zone) ,"",""
+GV04 Conakry ,to ,GV04 Conakry 
+Add: 
+provinsi (province) 
+ID42 Kalimantan Utara 
+Change: ,"",""
+do (prefecture) ,to ,dō (prefecture) 
+Change: ,"",""
+kamphèng nakhon (city) ,to ,kamphèng nakhon (prefecture) 
+Change: ,"",""
+municipality ,to ,republikas pilsētas (republican city) 
+LG06  Daugavpils ,to ,LG06  Daugavpils 
+LG11 Jelgava ,to ,LG11 Jelgava 
+LG13 Jūrmala ,to ,LG13 Jūrmala 
+LG16 Liepāja ,to ,LG16 Liepāja 
+LG23 Rēzekne ,to ,LG23 Rēzekne 
+LG25 Rīga ,to ,LG25 Rīga 
+LG32 Ventspils ,to ,LG32 Ventspils 
+Delete: 
+MKF3 Aerodrom 
+MKF4 Butel 
+MKC8 Čair 
+MKD1 Centar 
+MK29 Đorče Petrov 
+MK30 Drugovo 
+MK32 Gazi Baba 
+MK41 Karpoš 
+MK44 Kisela Voda 
+MK77 Oslomej 
+MK90 Saraj 
+MKA3 Šuto Orizari 
+MKB6 Vraneštica 
+MKC1 Zajas 
+Add: 
+grad (city) 
+MKF6 Skopje 
+Change: ,"",""
+MK19 Češinovo ,to ,MK19 Češinovo-Obleševo 
+Change: ,"","",""
+MA01 Bamako ,to ,ML01 ,Bamako 
+Add: 
+municipality 
+RM01 Ailinglaplap 
+RM02 Ailuk 
+RM03 Arno 
+RM04 Aur 
+RM05 Bikini & Kili 
+RM06 Ebon 
+RM07 Enewetak & Ujelang 
+RM08 Jabat 
+RM09 Jaluit 
+RM10 Kwajalein 
+RM11 Lae 
+RM12 Lib 
+RM13 Likiep 
+RM14 Majuro 
+RM15 Maloelap 
+RM16 Mejit 
+RM17 Mili 
+RM18 Namdrik 
+RM19 Namu 
+RM20 Rongelap 
+RM21 Ujae 
+RM22 Utrik 
+RM23 Wotho 
+RM24 Wotje 
+Change: ,"",""
+hot (municipality) ,to ,hot (city) 
+Change: ,"",""
+MH01 Saint Georges ,to ,MH02 Saint Georges 
+MH01 Saint Peter ,to  ,MH03 Saint Peter 
+Change: ,"","",""
+RP40 Mindoro Occidental ,to ,RP40 ,Occidental Mindoro 
+RP41 Mindoro Oriental ,to ,RP41 ,Oriental Mindoro 
+RPP2 Zamboanga ,to ,RPG7 ,Zamboanga 
+RPG7 Zamboanga del Norte ,to ,RP65 ,Zamboanga del Norte 
+RP65 Zamboanga del Sur ,to ,RPP1 ,Zamboanga del Sur 
+RP66 Zamboanga Sibugay ,to ,RPP2 ,Zamboanga Sibugay 
+charter city ,"",highly urbanized city 
+RPA1 Angeles ,to ,RPA1 Angeles 
+RPA2 Bacolod ,to ,RPA2 Bacolod 
+RPA4 Baguio  ,to ,RPA4 Baguio 
+RPA8 Butuan  ,to ,RPA8 Butuan 
+RPB2 Cagayan de Oro ,to ,RPB2 Cagayan de Oro 
+RPB4 Caloocan ,to ,RPB4 Caloocan 
+RPB7 Cebu ,to ,RPB7 Cebu 
+RPC3 Davao  ,to ,RPC3 Davao 
+RPC6 General Santos ,to ,RPC6 General Santos 
+RPC8 Iligan ,to ,RPC8 Iligan 
+RPC9 Iloilo ,to ,RPC9 Iloilo 
+RPD9 Lapu-Lapu ,to ,RPD9 Lapu-Lapu 
+RPK1 Las Piñas ,to ,RPK1 Las Piñas 
+RPD7 Lucena  ,to ,RPD7 Lucena 
+RPK4 Makati  ,to ,RPK4 Makati 
+RPK5 Malabon ,to ,RPK5 Malabon 
+RPK8 Mandaluyong ,to ,RPK8 Mandaluyong 
+RPD8 Mandaue ,to ,RPD8 Mandaue 
+RPK9 Marikina ,to ,RPK9 Marikina 
+RPL4 Muntinlupa ,to ,RPL4 Muntinlupa 
+RPL5 Navotas ,to ,RPL5 Navotas 
+RPE3 Olongapo ,to ,RPE3 Olongapo 
+RPL7 Parañaque ,to ,RPL7 Parañaque 
+RPE9 Pasay ,to ,RPE9 Pasay 
+RPL8 Pasig ,"",to ,RPL8 Pasig 
+RPF1 Puerto Princesa ,"",to ,RPF1 Puerto Princesa 
+RPF2 Quezon ,"",to ,RPF2 Quezon 
+RPM6 San Juan ,"",to ,RPM6 San Juan 
+RPG1 Taclobon ,"",to ,RPG1 Taclobon 
+RPN6 Taguig  ,"",to ,RPN6 Taguig 
+RPO7 Valenzuela ,"",to ,RPO7 Valenzuela 
+RPG7 Zamboanga ,"",to  ,RPG7 Zamboanga 
+charter city ,"",highly urbanized  city [English] /  
+"","",lungsod [Filipino] 
+RPD9 Manila ,to ,RPD9 Manila [English] / 
+"","",Maynila [Filipino] 
+charter city ,"",independent component city 
+RPH5 Antipolo  ,to ,RPH5 Antipolo 
+RPB8 Cotabato ,to ,RPB8 Cotabato 
+RPB9 Dagupan ,to ,RPB9 Dagupan 
+RPE2 Naga ,to ,RPE2 Naga 
+RPE4 Ormoc  ,to ,RPE4 Ormoc 
+RPM8 Santiago ,to ,RPM8 Santiago 
+Change: ,"",""
+baladīyat (municipality) ,to ,baladīyah (municipality) 
+Change: ,"",""
+SW02 Blekinge Län ,to ,SW02 Blekinge 
+SW10 Dalarnas Län ,to ,SW10 Dalarna 
+SW03 Gävleborgs Län ,to ,SW03 Gävleborg 
+SW05 Gotlands Län ,to ,SW05 Gotland 
+SW06 Hallands Län ,to ,SW06 Halland 
+SW07 Jämtlands Län ,to ,SW07 Jämtland 
+SW08 Jönköpings Län ,to ,SW08 Jönköping 
+SW09 Kalmar Län ,to ,SW09 Kalmar 
+SW12 Kronobergs Län ,to ,SW12 Kronoberg 
+SW14 Norrbottens Län ,to ,SW14 Norrbotten 
+SW15 Örebro Län ,to ,SW15 Örebro 
+SW16 Östergötlands Län ,to ,SW16 Östergötland 
+SW27 Skåne Län ,to ,SW27 Skåne 
+SW18 Södermanlands Län ,to ,SW18 Södermanland 
+SW26 Stockholms Län ,to ,SW26 Stockholm 
+SW21 Uppsala Län ,to ,SW21 Uppsala 
+SW22 Värmlands Län ,to ,SW22 Värmland 
+SW23 Västerbottens Län ,to ,SW23 Västerbotten 
+SW24 Västernorrlands Län ,to ,SW24 Västernorrland 
+SW25 Västmanlands Län ,to ,SW25 Västmanland 
+SW28 Västra Götalands Län ,to ,SW28 Västra Götaland 
+Change: ,"",""
+viloyati (province) ,to ,viloyat (province) 
+Add: 
+island council 
+TV02 Nanumaga 
+TV03 Nanumea 
+TV04 Niutao 
+TV05 Nui 
+TV06 Nukufetau 
+TV07 Nukulaelae 
+TV08 Vaitupu 
+town council 
+TV01 Funafuti 
+Change: ,"","",""
+UKS1 Dungannon ,to ,UKS1 ,Dungannon and South Tyrone 
+
+
+UPDATE,13
+
+Change: ,"",""
+voblasts’ (oblast) ,to ,voblasts’ [Belarusian] / 
+"","",oblast’ [Russian] (region) 
+BO01 Brestskaya Voblasts’ ,to ,BO01 Brestskaya Voblasts’ [Belarusian] / 
+"","",Brestskaya Oblast’ [Russian] 
+BO02 Homyel’skaya Voblasts’ ,to ,BO02 Homyel’skaya Voblasts’  
+"","",[Belarusian] /  
+"","",Gomel’skaya Oblast’ [Russian] 
+BO03 Hrodzyenskaya Voblasts’ ,to ,BO03 Hrodzyenskaya Voblasts’  
+"","",[Belarusian] / 
+"","",Grodnenskaya Oblast’ [Russian] 
+BO06 Mahilyowskaya Voblasts’ ,to ,BO06 Mahilyowskaya Voblasts’  
+"","",[Belarusian] / 
+"","",Mogilevskaya Oblast’ [Russian] 
+BO05 Minskaya Voblasts’ ,to ,BO05 Minskaya Voblasts’ [Belarusian] / 
+"","",Minskaya Oblast’ [Russian] 
+BO07 Vitsyebskaya Voblasts’ ,to ,BO07 Vitsyebskaya Voblasts’ 
+"","",[Belarusian] / 
+"","",Vitebskaya Oblast’ [Russian] 
+horad (city) ,to ,horad [Belarusian] / gorod [Russian] (city) 
+BO04 Minsk ,to ,"BO04 Minsk [Belarusian, Russian] "
+Delete all entries: 
+CJ01 Creek 
+CJ02 Eastern 
+CJ03 Midland 
+CJ04 ,South Town 
+CJ05 ,Spot Bay 
+CJ06 ,Stake Bay 
+CJ07 ,West End 
+CJ08 ,Western 
+Change: ,"","",""
+CI02 Aisén del General Carlos Ibáñez ,"","",""
+del Campo ,to ,CI02 ,Aysén 
+CI06 Bío-Bío ,to ,CI06 ,Biobío 
+Delete: 
+région (region) 
+IV74 Agnéby 
+IV75 Bafing 
+IV79 Fromager 
+IV80 Haut-Sassandra 
+IV83 Marahoué 
+IV84 Moyen-Cavally 
+IV85 Moyen-Comoé 
+IV86 N’zi-Comoé 
+IV88 Sud-Bandama 
+IV89 Sud-Comoé 
+IV91 Worodougou 
+Change: ,"",""
+région (region) ,to ,district (district) 
+IV76 Bas-Sassandra ,to ,IV76 Bas-Sassandra 
+IV77 Denguélé ,to ,IV77 Denguélé 
+IV78 Dix-Huit Montagnes ,to ,IV78 Montagnes 
+IV81 Lacs ,to ,IV81 Lacs 
+IV82 Lagunes ,to ,IV82 Lagunes 
+IV87 Savanes ,to ,IV87 Savanes 
+IV90 Vallée du Bandama ,to ,IV90 Vallée du Bandama 
+IV92 Zanzan ,to ,IV92 Zanzan 
+Add: 
+district (district) 
+IV94 Comoé 
+IV95 Gôh-Djiboua 
+IV96 Sassandra-Marahoué 
+IV97 Woroba 
+district autonome (autonomous district) 
+IV93 Abidjan 
+IV98 Yamoussoukro 
+Change: ,"","",""
+DR02 Bahoruco ,to ,DR02 ,Baoruco 
+DR28 El Seíbo ,to ,DR28 ,El Seibo 
+DR19 Salcedo ,to ,DR19 ,Hermanas Mirabal 
+Add: 
+ciudad autónoma (autonomous city) 
+SP61 Ceuta 
+SP62 Melilla 
+Change: ,"",""
+comunidad autonoma ,"",""
+(autonomous community) ,to  ,comunidad autónoma 
+"","",(autonomous community)  
+SP51 Andalucía ,to ,SP51 Andalucía 
+SP52 Aragón ,to ,SP52 Aragón 
+SP34 Asturias ,to ,SP34 Asturias 
+SP53 Canarias ,to ,SP53 Canarias 
+SP39 Cantabria ,to ,SP39 Cantabria 
+SP54 Castilla-La Mancha ,to ,SP54 Castilla-La Mancha 
+SP55 Castilla y León ,to ,SP55 Castilla y León 
+SP56 Cataluña ,to ,SP56 Cataluña 
+SP57 Extremadura ,to ,SP57 Extremadura 
+SP58 Galicia ,to ,SP58 Galicia 
+SP07 Islas Baleares ,to ,SP07 Islas Baleares 
+SP27 La Rioja ,to ,SP27 La Rioja 
+SP31 Murcia ,to ,SP31 Murcia 
+SP59 País Vasco ,to ,SP59 País Vasco 
+SP60 Valenciana ,to ,SP60 Valenciana 
+Change: ,"","",""
+TZ23 Dar es Salaam [English] / ,"","",""
+Dar Es Salaam [Swahili] ,to ,TZ23 ,"Dar es Salaam [English, Swahili] "
+Change: ,"","",""
+TH64 Nakon Si Thammarat ,to ,TH64 ,Nakhon Si Thammarat 
+Add: 
+division 
+TN04 ‘Eua 
+TN05 Ongo Niua 
+Change: ,"",""
+island group ,to ,division 
+TN01 Ha‘apai ,to ,TN01 Ha‘apai 
+TN02 Tongatapu ,to ,TN02 Tongatapu 
+TN03 Vava‘u ,to ,TN03 Vava‘u 
+Add: ,""
+TD20 ,San Juan/Laventille 
+Change: ,"","",""
+TU88 Iğdir ,to ,TU88 ,Iğdır 
+DELETE the following geopolitical entity and code 
+"PJ ETOROFU, HABOMAI, KUNASHIRI AND SHIKOTAN ISLANDS (FNC 376) "
+
+
+UPDATE,14
+
+Change: ,"","",""
+BO06 Mahilyowskaya Voblasts’  ,"","",""
+[Belarusian] / ,"","",""
+Mogilevskaya Oblast’ [Russian] ,to ,BO06 ,Mahilyowskaya Voblasts’  
+"","","",[Belarusian] / 
+"","","",Mogilëvskaya Oblast’ [Russian] 
+Change country name: ,"","",""
+CV CAPE VERDE ,to ,CV ,CABO VERDE 
+Add: 
+département (department) 
+CF15 Pointe-Noire 
+Change: ,"",""
+commune ,to  ,département (department) 
+CF12 Brazzaville ,to ,CF12 Brazzaville 
+région (region) ,to  ,département (department) 
+CF01 Bouenza ,to ,CF01 Bouenza 
+CF13 Cuvette ,to ,CF13 Cuvette 
+CF14 Cuvette-Ouest ,to ,CF14 Cuvette-Ouest 
+CF04 Kouilou ,to ,CF04 Kouilou 
+CF05 Lékoumou ,to ,CF05 Lékoumou 
+CF06 Likouala ,to ,CF06 Likouala 
+CF07 Niari ,to ,CF07 Niari 
+CF08 Plateaux ,to ,CF08 Plateaux 
+CF11 Pool ,to ,CF11 Pool 
+CF10 Sangha ,to ,CF10 Sangha 
+Change: ,"",""
+freie und hansestadt (municipality) ,to ,land (state) 
+GM04 Hamburg ,to ,GM04 Hamburg 
+freistaat (free state) ,to ,land (state) 
+GM02 Bayern ,to ,GM02 Bayern 
+GM13 Sachsen ,to ,GM13 Sachsen 
+GM15 Thüringen ,to ,GM15 Thüringen 
+Add: 
+shaar [Kirghiz] / gorod [Russian] (city) 
+"KG10 Osh [Kirghiz, Russian] "
+Change: ,"",""
+shaar [Kirghiz] / gorod [Russian] (city) ,to ,shaar [Kirghiz] / gorod [Russian] (city) 
+KG01 Bishkek [Kirghiz] / ,"",""
+"Bishkek, Gorod [Russian] ",to ,"KG01 Bishkek [Kirghiz, Russian] "
+oblast [Kirghiz] / oblast’ [Russian] ,to ,oblus [Kirghiz] / oblast’ [Russian] 
+KG09 Batken [Kirghiz] / ,"",""
+Batkenskaya Oblast’ [Russian] ,to ,KG09 Batken [Kirghiz] /  
+"","",Batkenskaya Oblast’ [Russian] 
+KG02 Chüy [Kirghiz] / ,"",""
+Chuyskaya Oblast’ [Russian] ,to ,KG02 Chüy [Kirghiz] / 
+"","",Chuyskaya Oblast’ [Russian] 
+KG03 Jalal-Abad [Kirghiz] / ,"",""
+Dzhalal-Abadskaya Oblast’ ,"",""
+[Russian] ,to ,KG03 Jalal-Abad [Kirghiz] / 
+"","",Dzhalal-Abadskaya Oblast’ 
+"","",[Russian] 
+KG04 Naryn [Kirghiz] / ,"",""
+Narynskaya Oblast’ [Russian] ,to ,KG04 Naryn [Kirghiz] / 
+"","",Narynskaya Oblast’ [Russian] 
+KG08 Osh [Kirghiz] / ,"",""
+Oshskaya Oblast’ [Russian] ,to ,KG08 Osh [Kirghiz] / 
+"","",Oshskaya Oblast’ [Russian] 
+KG06 Talas [Kirghiz] / ,"",""
+Talasskaya Oblast’ [Russian] ,to ,KG06 Talas [Kirghiz] / 
+"","",Talasskaya Oblast’ [Russian] 
+KG07 ,Ysyk-Köl [Kirghiz] / ,"","",""
+"",Issyk-Kul’skaya Oblast’ [Russian] ,to ,KG07 ,Ysyk-Köl [Kirghiz] / 
+"","","","",Issyk-Kul’skaya Oblast’ [Russian] 
+Delete: 
+WA34 Okavango 
+Add: 
+region 
+WA40 Kavango East 
+WA41 Kavango West 
+Change: ,"",""
+district  ,to ,region 
+WA28 Caprivi ,to ,WA28 Zambezi 
+WA29 Erongo ,to ,WA29 Erongo 
+WA30 Hardap ,to ,WA30 Hardap 
+WA31 Karas ,to ,WA31 //Karas 
+WA21 Khomas ,to ,WA21 Khomas 
+WA32 Kunene ,to ,WA32 Kunene 
+WA33 Ohangwena ,to ,WA33 Ohangwena 
+WA35 Omaheke ,to ,WA35 Omaheke 
+WA36 Omusati ,to ,WA36 Omusati 
+WA37 Oshana ,to ,WA37 Oshana 
+WA38 Oshikoto ,to ,WA38 Oshikoto 
+WA39 Otjozondjupa ,to ,WA39 Otjozondjupa 
+Change: ,"",""
+département (department) ,to ,région (region) 
+NG01 Agadez ,to ,NG01 Agadez 
+NG02 Diffa ,to ,NG02 Diffa 
+NG03 Dosso ,to ,NG03 Dosso 
+NG04 Maradi ,to ,NG04 Maradi 
+NG06 Tahoua ,to ,NG06 Tahoua 
+NG09 Tillabéri ,to ,NG09 Tillabéri 
+NG07 Zinder ,to ,NG07 Zinder 
+Change: ,"","",""
+NI56 Nassarawa ,to ,NI56 ,Nasarawa 
+Change: ,"","",""
+SF10 North-West ,to ,SF10 ,North West 
+Change: ,"",""
+SP56 Cataluña ,to ,SP56 Catalonha [Aranese] / 
+"","",Catalunya [Catalan] /  
+"","",Cataluña [Spanish] 
+SP58 Galicia ,to ,"SP58 Galicia [Galician, Spanish] "
+SP07 Islas Baleares ,to ,"SP07 Illes Balears [Catalan, Spanish] "
+SP59 País Vasco ,to ,SP59 Euskadi [Basque] / 
+"","",País Vasco [Spanish] 
+SP60 Valenciana ,to ,"SP60 Valenciana, Comunidad [Spanish] / "
+"","","Valenciana, Comunitat [Valencian] "
+comunidad (community) ,to  ,comunidad autónoma 
+"","",(autonomous community)  
+SP29 Madrid ,to ,SP29 Madrid 
+comunidad foral (statutory community) ,to  ,comunidad autónoma 
+"","",(autonomous community)  
+SP32 Navarra ,to ,SP32 Nafarroa [Basque] / 
+"","",Navarra [Spanish] 
+
+
+UPDATE,15
+
+Change: ,"","",""
+AG53 Tamanghasset ,to ,AG53 ,Tamanrasset 
+Add: 
+city 
+BC13 Francistown 
+BC14 Gaborone 
+district 
+BC12 Chobe 
+town 
+BC15 Jwaneng 
+BC16 Lobatse 
+BC17 Selibe Phikwe 
+BC18 Sowa Town 
+Delete all entries and replace with: 
+región (region) 
+DR38 Cibao Nordeste 
+DR39 Cibao Noroeste 
+DR40 Cibao Norte 
+DR41 Cibao Sur 
+DR42 El Valle 
+DR43 Enriquillo 
+DR44 Higuamo 
+DR45 Ozama 
+DR46 Valdesia 
+DR47 Yuma 
+Change: ,"","","",""
+1,"","","",""
+HU41 Salgόtarján  ,"",to ,HU41 ,Salgótarján 
+Delete all principal administrative divisions: 
+KR01 Gilbert Islands 
+KR02 Line Islands 
+KR03 Phoenix Islands 
+Change: ,"","","",""
+KV32 Hani i Elezit [Albanian] / ,"",to ,KV32 ,Hani i Elezit [Albanian] / 
+Ðeneral Janković 2 [Serbian] ,"","","",Đeneral Janković [Serbian] 
+Change: ,"",""
+quarter ,to ,district 
+ST01 Anse-la-Raye ,to ,ST01 Anse-la-Raye 
+ST03 Castries ,to ,ST03 Castries 
+ST04 Choiseul ,to ,ST04 Choiseul 
+ST05 Dennery ,to ,ST05 Dennery 
+ST06 Gros-Islet ,to ,ST06 Gros-Islet 
+ST07 Laborie ,to ,ST07 Laborie 
+ST08 Micoud ,to ,ST08 Micoud 
+ST09 Soufrière ,to ,ST09 Soufrière 
+ST10 Vieux-Fort ,to ,ST10 Vieux-Fort 
+Delete: 
+ST02 Dauphin 
+ST11 Praslin 
+Add: 
+district  
+ST12 Canaries 
+Change: ,"","",""
+SA05 Al Madīnah ,to ,SA05 ,Al Madīnah al Munawwarah 
+SA17 Jīzān ,to ,SA17 ,Jāzān 
+SA14 Makkah ,to ,SA14 ,Makkah al Mukarramah 
+Change: ,"",""
+canton [French] / kanton [German] / ,"",""
+cantone [Italian] (canton) ,to ,canton [French] / kanton [German] / 
+"","",cantone [Italian] / chantun [Romansh]  
+"","",4
+"","",(canton) 
+SZ01 Aargau ,to ,SZ01 Aargau [German] 
+SZ02 Appenzell Ausserrhoden ,to ,SZ02 Appenzell Ausserrhoden [German] 
+SZ10 Appenzell Innerrhoden ,to ,SZ10 Appenzell Innerrhoden [German] 
+SZ03 Basel-Landschaft ,to ,SZ03 Basel-Landschaft [German] 
+SZ04 Basel-Stadt ,to ,SZ04 Basel-Stadt [German] 
+SZ05 Bern ,to ,SZ05 Berne [French] / Bern [German] 
+SZ06 Fribourg ,to ,SZ06 Fribourg [French] / 
+"","",Freiburg [German]  
+SZ07 Genève ,to ,SZ07 Genève [French] 
+SZ08 Glarus ,to ,SZ08 Glarus [German] 
+SZ09 Graubünden ,to ,SZ09 Graubünden [German] /  
+"","",Grigioni [Italian] / 
+"","",Grischun [Romansh] 
+SZ26 Jura ,to ,SZ26 Jura [French] 
+SZ11 Luzern ,to ,SZ11 Luzern [German] 
+SZ12 Neuchâtel ,to ,SZ12 Neuchâtel [French] 
+SZ13 Nidwalden ,to ,SZ13 Nidwalden [German] 
+SZ14 Obwalden [German] ,to ,SZ14 Obwalden [German] 
+SZ15 Sankt Gallen ,to ,SZ15 Sankt Gallen [German] 
+SZ16 Schaffhausen ,to ,SZ16 Schaffhausen [German] 
+SZ17 Schwyz ,to ,SZ17 Schwyz [German] 
+SZ18 Solothurn ,to ,SZ18 Solothurn [German] 
+SZ19 Thurgau ,to ,SZ19 Thurgau [German] 
+SZ20 Ticino ,to ,SZ20 Ticino [Italian] 
+SZ21 Uri ,to ,SZ21 Uri [German] 
+SZ22 Valais ,to ,SZ22 Valais [French] / Wallis [German] 
+SZ23 Vaud ,to ,SZ23 Vaud [French] 
+SZ24 Zug ,to ,SZ24 Zug [German] 
+SZ25 Zürich ,to ,SZ25 Zürich [German] 
+Change: ,"",""
+UGC5 Bulisa ,to ,UGC5 Buliisa 
+UG41 Kibale ,to ,UG41 Kibaale 
+UGG6 Mitoma ,to ,UGG6 Mitooma 
+Change: ,"",""
+territorio federal (federal territory) ,to ,estado (state) 
+VE09 Delta Amacuro ,to ,VE09 Delta Amacuro 
+Change: ,"",""
+VM88 Đắc Lắk ,to ,VM88 Đắk Lắk 
+
+
+UPDATE,16
+
+Delete: 
+division 
+FJ01 Central 
+FJ02 Eastern 
+FJ03 Northern 
+FJ05 Western 
+Add: 
+province 
+FJ06 Ba 
+FJ07 Bua 
+FJ08 Cakaudrove 
+FJ09 Kadavu 
+FJ10 Lau 
+FJ11 Lomaiviti 
+FJ12 Macuata 
+FJ13 Nadroga and Navosa 
+FJ14 Naitasiri 
+FJ15 Namosi 
+FJ16 Ra 
+FJ17 Rewa 
+FJ18 Serua 
+FJ19 Tailevu 
+Change: ,"",""
+mkhare (region) ,"",kalaki (city) 
+GG51 Tbilisi ,to ,GG51 Tbilisi 
+Change: ,"",""
+GM02 Bayern ,to ,GM02 Bavaria [conventional] / 
+"","",Bayern [German] 
+GM05 Hessen ,to ,GM05 Hesse [conventional] / 
+"","",Hessen [German] 
+GM12 Mecklenburg-Vorpommern ,to ,GM12 Mecklenburg-Western Pomerania 
+"","",[conventional] / 
+"","",Mecklenburg-Vorpommern  
+"","",[German] 
+GM06 Niedersachsen ,to ,GM06 Lower Saxony [conventional] / 
+"","",Niedersachsen [German] 
+GM07 Nordrhein-Westfalen ,to ,GM07 North Rhine-Westphalia 
+"","",[conventional] / 
+"","",Nordrhein-Westfalen [German] 
+GM08 Rheinland-Pfalz ,to ,GM08 Rhineland-Palatinate [conventional] / 
+"","",Rheinland-Pfalz [German] 
+GM13 Sachsen ,to ,GM13 Saxony [conventional] / Sachsen 
+"","",[German] 
+GM14 Sachsen-Anhalt ,to ,GM14 Saxony-Anhalt [conventional] / 
+"","",Sachsen-Anhalt [German] 
+GM15 Thüringen ,to ,GM15 Thuringia [conventional] / 
+"","",Thüringen [German] 
+Add: ,""
+state ,""
+IN40 ,Telangana 
+Delete: 
+city [English] / cathair [Irish] 
+EI37 Limerick [English] / Luimneach [Irish] 
+EI41 Waterford [English] / Port Láirge [Irish] 
+county [English] / contae [Irish] ,""
+EI16 Limerick [English] / Luimneach [Irish] ,""
+"",1
+EI38 North Tipperary [English] / Tiobraid Árann Thuaidh [Irish] ,""
+2,""
+EI40 South Tipperary [English] / Tiobraid Árann Theas [Irish] ,""
+EI27 Waterford [English] / Port Láirge [Irish] ,""
+Add: 
+city and county [English] / cathair agus contae [Irish] 
+EI42 Limerick [English] / Luimneach [Irish] 
+EI44 Waterford [English] / Port Láirge [Irish] 
+county [English] / contae [Irish] 
+EI43 Tipperary [English] / Tiobraid Árann [Irish] 
+Delete all entries and replace with: 
+miesto savivaldybė (city municipality) 
+LH67 Alytaus Miestas 
+LH80 Kauno Miestas 
+LH85 Klaipėdos Miestas 
+LH96 Palangos Miestas 
+LH97 Panevėžio Miestas 
+LHA9 Šiaulių Miestas 
+LHC5 Vilniaus Miestas 
+rajono savivaldybė (district municipality) 
+LH66 Akmenė 
+LH68 Alytus 
+LH69 Anykščiai 
+LH71 Biržai 
+LH74 Ignalina 
+LH75 Jonava 
+LH76 Joniškis 
+LH77 Jurbarkas 
+LH78 Kaišiadorys 
+LH81 Kaunas 
+LH83 Kėdainiai 
+LH84 Kelmė 
+LH86 Klaipėda 
+LH87 Kretinga 
+LH88 Kupiškis 
+LH89 Lazdijai 
+LH90 Marijampolė 
+LH91 Mažeikiai  
+LH92 Molėtai 
+LH95 Pakruojis 
+LH98 Panevėžys 
+LH99 Pasvalys 
+LHA1 Plungė 
+LHA2 Prienai 
+LHA3 Radviliškis 
+LHA4 Raseiniai 
+LHA6 Rokiškis 
+LHA7 Šakiai 
+LHA8 Šalčininkai 
+LHB1 Šiauliai 
+LHB2 Šilalė 
+LHB3 Šilutė 
+LHB4 Širvintos 
+LHB5 Skuodas 
+LHB6 Švenčionys 
+LHB7 Tauragė 
+LHB8 Telšiai 
+LHB9 Trakai 
+LHC1 Ukmergė 
+LHC2 Utena 
+LHC3 Varėna 
+LHC4 Vilkaviškis 
+LHC6 Vilnius 
+LHC8 Zarasai 
+savivaldybė (municipality) 
+LH70 Birštono 
+LH72 Druskininkai 
+LH73 Elektrénai 
+LH79 Kalvarijos 
+LH82 Kazlų Rūdos 
+LH93 Neringa 
+LH94 Pagégiai 
+LHA5 Rietavo 
+LHC7 Visaginas 
+Add: 
+opština (municipality) 
+MJ22 Gusinje 
+MJ23 Petnjica 
+Add: 
+provincia (province) 
+PM13 Panamá Oeste 
+Add: ,""
+city ,""
+BP14 ,Honiara 
+Change: ,"","",""
+BP08 Makira ,to ,BP08 ,Makira and Ulawa 
+Change: ,"","",""
+SP51 Andalucía ,to ,SP51 ,Andalusia [conventional] / 
+"","","",Andalucía [Spanish] 
+SP52 Aragón ,to ,SP52 ,Aragon [conventional] / 
+"","","",Aragón [Spanish] 
+SP53 Canarias ,to ,SP53 ,Canary Islands [conventional] / 
+"","","",Canarias [Spanish] 
+SP54 Castilla-La Mancha ,to ,SP54 ,Castile-La Mancha [conventional] / 
+"","","",Castilla-La Mancha [Spanish] 
+SP55 Castilla y León ,to ,SP55 ,Castile-Leon [conventional] / 
+"","","",Castilla y León [Spanish] 
+SP56 Catalonha [Aranese] / ,"","",""
+Catalunya [Catalan] / ,"","",""
+Cataluña [Spanish] ,to ,SP56 ,Catalonia [conventional] / 
+"","","",Catalonha [Aranese] / 
+"","","",Catalunya [Catalan] / 
+"","","",Cataluña [Spanish] 
+SP59 Euskadi [Basque] / ,"","",""
+País Vasco [Spanish] ,to ,SP59 ,Basque Country 
+"","","",[conventional] / 
+"","","",Euskadi [Basque] / 
+"","","",País Vasco [Spanish] 
+"SP07 Illes Balears [Catalan, Spanish] ",to ,SP07 ,Balearic Islands [conventional] / 
+"","","","Illes Balears [Catalan, Spanish] "
+SP32 Nafarroa [Basque] / ,"","",""
+Navarra [Spanish] ,to ,SP32 ,Navarre [conventional] / 
+"","","",Nafarroa [Basque] / 
+"","","",Navarra [Spanish] 
+"SP60 Valenciana, Comunidad [Spanish] / ","","",""
+"Valenciana, Comunitat [Valencian] ",to ,SP60 ,Valencia [conventional] / 
+"","","","Valenciana, Comunitat "
+"","","","[Spanish, Valencian] "
