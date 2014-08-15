@@ -2,6 +2,11 @@
 
 This standard is obsolete but is useful when working with historical data like census data. Amazingly, all changes were recorded into pdf form. This is an attempt to create an easy to digest endpoint for computer systems. Currently, pdf extraction is done by tabula. A somewhat handheld process.
 
+## Why ?
+
+Even though the spec was removed it has been consistently updated. It is utilized as a seed reference for the new standard along with many other standards.
+
+
 ## About
 
 FIPS PUB 10-4 was withdrawn by the National Institute of Standards and Technology on September 2, 2008 based on Public Law 104-113 (codified OMB Circular A-119 and the National Technology Transfer and Advancement Act of 1995). The National Geospatial-Intelligence Agency (NGA), as the maintenance agency for FIPS PUB 10-4, has continued to maintain and provide regular updates to its content in a document known as Geopolitical Entities and Codes (GEC) (Formerly FIPS PUB 10-4). 
